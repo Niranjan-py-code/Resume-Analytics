@@ -1,0 +1,183 @@
+Nagarani Pampati
+Summary
+• 8+ years of diverse experience in Information Technology on Quality Assurance. Expertise in manual testing,
+testing using Web based applications (GUI).
+• Experience in Data Analysis, User Acceptance Testing, Quality Analyst with Backend ETL Testing.
+• Familiar with Software Development Life Cycle (SDLC) methodologies including Waterfall and Agile/ Scrum.
+• Database testing including Data Validation, Data Mapping, Data Conversion using SQL Queries.
+• Good experience in Data Analysis, Data Validation, Data Profiling, Data Verification, Data Mapping, Data Loading
+and had Data Warehousing testing experience.
+• In depth technical knowledge and understanding of Data Warehousing, OLAP, SQL Server, Oracle and ETL.
+• Excellent understanding and expertise in writing complex SQL (DDL, DML and DCL) queries to perform back-end
+testing.
+• Knowledge in Dimensional Data Modeling using Star and Snowflake Schema.
+• Good understanding of source to target data mapping, data models and transformations.
+• Involved in test planning and analysis, data preparation, execution and post quality check.
+• Experienced in designing scenario & rules-based test cases and test data preparation.
+• Good understanding of loan manufacturing process. Ability in developing Behavior Driven-development scripts in
+Gherkin language and Cucumber.
+• Strong knowledge in back-end testing, front-end testing, functional testing, integration testing, regression testing,
+white box testing and black box testing.
+• Experience in preparing Test Plans, Test Cases, Test Logs, Bug Logs, Bug Tracking Report, Requirements
+Traceability Matrix (RTM).
+• Used test management tools like HP Quality Center/Test Director, JIRA.
+• Hands on experience in using Open Source Tools like Selenium IDE, Firebug, XML Spy and Eclipse.
+• Worked on running automation test scripts using Selenium Web Driver with TestNG Framework.
+• Extensively used HP ALM for test creation, test execution, defect creation and tracking.
+• Expert skills in backend testing by writing SQL Queries using the tools TOAD, Rapid SQL.
+• Experienced in Data Extraction, Transformations and data Loading process in a corporate-wide-ETL solution
+using Informatica Power Center (Designer, Workflow Manager, Workflow Monitor and Repository Manager) and
+Unix scripts.
+• Knowledge in Dimensional Data Modeling using Star and Snowflake Schema.
+• Excellent verbal / written communication skills and good interpersonal skills.
+• Good knowledge in BDD (Behavior driven development) framework like Cucumber.
+• Executed test scripts on IE, Firefox and Google Chrome.
+• Generation of Bug (Defect) Reports, tracking the status of each defect (Open, fixed and New) and analyzing the
+bugs using JIRA, ALM.
+• Developed Test Strategy, Test Plan, Test Cases (Functional and Non-Functional), Test Scenarios from System
+Requirement specifications (SRS) according to the Business requirement.
+• Knowledge in Software Development Life Cycle (SDLC), Agile Testing Methodologies and Wide exposure to
+complete Testing Life Cycle (TLC).
+• Experience with testing in AWS cloud environments to automate test cases.
+• Expert in the different types of testing that include GUI testing, System testing, Integration testing, Functional
+testing, User Acceptance testing (UAT), Black Box Testing, White Box Testing, Manual and Regression testing.
+• Platform experience with Windows XP, Windows 8, Windows 10.
+• Extensive experience in SDLC processes like – Waterfall, V-Model and Agile (Scrum).
+• Good Knowledge in using of CI/CD Jenkin automation server.
+• Ability to handle multiple projects simultaneously with a limited timeframe Release Cycle.
+• Experience in working closely with the development team, QA, Users and Project Managers during all the phases
+of the Product Life Cycle.
+• A good team player with excellent written and verbal communication skills.
+• Excellent problem-solving skills, experience in working group projects, desire and ability to learn new technologies
+and quickly adapt to different work environments.
+Technical Skills
+Testing Tools
+Databases
+Web Technologies
+SQL Tools
+Operating System
+IDE
+
+Selenium web driver, selenium RC, Quality Center/ALM, JIRA
+Oracle 10g & 11g, MySQL, Sql server
+Java
+TOAD
+Windows XP, 8, 10
+Eclipse 3.x, Spring Tool Suite3.6.3
+
+Build Tools
+SQA/Testing
+Testing Tools
+Quality Management Tool
+
+Maven
+Black Box Testing, White Box Testing, Sanity Testing, Functional Testing, Integration
+Testing, Web Based Testing, User Acceptance Testing, End to End Testing.
+Selenium web driver, Selenium Grid, Quality Center/ALM, JIRA, TestNG
+ALM, JIRA
+
+Professional Experience
+K12, Herndon, VA
+Jun 2017 – Present
+QA Tester/ Analyst
+TotalView Enrollment (TVE), a web application that manages new applicants' enrollment from receipt of enrollment
+applications to enrollment approval or rejections. TVE is integrated with Salesforce Parent Portal where parents can
+submit application, create account, upload supporting documents, view application status, communication etc. The K12
+administrators and document processors can then view, download to review, approve/reject and communicate with
+parents.
+Responsibilities:
+• Review business requirements, participate in business process review meetings for student enrollment application
+processing
+• Participate in Agile scrum meetings including sprint planning, grooming discussions, sprint review and
+retrospective meetings
+• Create test plan, test scenarios, test cases and test data based on the user stories and acceptance criteria and
+peer review with Agile scrum team
+• Test a student electronic records and document management system to meet the needs of the elementary,
+secondary and special education teams in SharePoint Services
+• Test the TVE user interface modules including Student Information, Enrollment Information, Compliance,
+Immunization
+• Test Salesforce Parent Portal user interface modules including SF Account Record, SF Opportunity Record and
+Search Students
+• Used SQL for Querying the Oracle database in UNIX environment.
+• Ran ETL jobs, validated the transformed data in target database and the report content
+• Test the interface that updates the document and application status after ETL job is run
+• Perform smoke, User Interface, regression, interface and integration testing
+• Used X-ray to create test cases, execute and generate UTM (User Traceability Matrix)
+• Used TOAD to create and run SQL queries for database validations
+• Create user traceability matrix (UTM), test results and bug reports and other test related documents
+• Integration testing of TVE with Salesforce Parent Portal
+• Responsible for defect creation, tracking, defect reporting and triage process
+• Experience with testing in AWS cloud environments to automate test cases.
+• Enhance test cases using Java, Selenium WebDriver, element locators and TestNG annotations for regression
+• Provide daily, weekly and monthly reports
+• Created Test Case Scenarios and executed performance test scripts using LoadRunner.
+• Work closely in a highly collaborative team environment
+• Used JIRA as bug tracking and reporting tool and followed up with development team to verify bug fixes and
+update bug status.
+Environment: Windows, Word, Excel, Outlook, JIRA, X-ray, SharePoint Services, Oracle, SQL, Selenium Web driver,
+TestNG, Java.
+U.S. Pharmacopeia, Rockville, MD
+Jan 2015 – Jun 2017
+QA Tester/ Analyst
+USP works with volunteers from all over the world to provide drug standards. These volunteers are recruited by USP, they
+are not employees of USP and they are volunteers working for USP. These volunteers go thru a selection process and
+once selected are called ‘Experts’ (Council of Experts) at USP. The primary function of these Experts is to vote on of
+ballots that USP creates. The expert cast their vote (Yea or Ney), they also contribute information in regard to the ballot.
+Experts are selected based on their expertise. USP’s creates groups for every area of expertise and calls each group a
+committee/panel/subcommittee. Each committee’s name is their expertise. For example, a committee is “Biologic
+Monographs-Proteins”. Each committee contains of approximately 12 members, 1 chair and 1 vice chair and a hand full of
+USP employees with the same expertise. USP goes thru a hiring process to select candidates to be part of these
+committees every 5 years. Experts contribute during their 5-year span. Many volunteers from all over the world apply to
+be part of this committee.
+Responsibilities:
+• Analysis of the BRS (Business Requirements Specification) according to application.
+• Understanding of Test Methodologies and Test plans based on BRS.
+
+•
+•
+•
+•
+•
+•
+•
+•
+
+Developed both positive and negative Test Cases for different functionalities.
+Involved in performing Functional, System testing, Integration testing & Regression testing of the application.
+Tested broken links, navigation, forms, printing and usability.
+Extensively involved in end-to-end testing.
+Working closely with the Developer to resolve the issues and understanding the functionality.
+Involved in Daily Meetings and Weekly Meetings before starting up the task
+Performed backend testing to test the validity of the data in the reports using SQL queries on the database.
+Use JIRA as bug tracking and reporting tool and followed up with development team to verify bug fixes and
+update bug status.
+Environment: Windows, Word, Excel, Outlook, JIRA, SQL
+Delta Airlines (Delta.com), Atlanta, GA
+Jan 2010 – Jan 2015
+QA Tester/ Analyst
+Delta Air Lines is one of the premier Airlines in the world headquartered in Atlanta. Delta operates an expansive domestic
+and international network and flies to over 481 destinations in 105 countries across 5 continents. Delta.com is a website
+for delta airlines, which provides travelers services such as arranging their travel schedules safely and securely, tracking
+statuses of their travel and allow them changes their preferences such as itinerary changes and profile changes.
+Delta.com also maintains their customers traveling history to provide better services to their frequent travelers.
+Responsibilities:
+• Analysis of the BRS (Business Requirements Specification) according to application.
+• Created, maintained and executed test plans, test procedures, test cases.
+• Reviewing all the requirements from the requirement documents with project and development teams.
+• Presenting the Test Plan and Test Scripts to Project team and Development team.
+• Involved in writing the Test plan as per the business requirements.
+• Prepared and executed Test Scripts and Test Scenarios.
+• Performed GUI Testing, Black box testing, White Box testing, Positive and Negative testing, Sanity testing.
+• Perform Shake out testing, System testing, Functionality testing, Live testing, Regression testing and End to End
+testing for new releases and making changes to test scripts as per changing requirements.
+• Working closely with the Developer to resolve the issues and understanding the functionality.
+• Involved in Daily Meetings and Weekly Meetings before starting up the task
+• Defect management using JIRA.
+• Generation of Bug (Defect) Reports, tracking the status of each defect (Open, fixed and New) and analyzing the
+bugs using JIRA, ALM.
+• Created SQL queries to retrieve data from database to validate the input data.
+• Attended project meetings, release meetings and QA status meetings.
+• Participated in various meetings to discuss Enhancement and Modification Requests
+Environment: Windows, Word, Excel, Outlook Oracle, JIRA.
+
+

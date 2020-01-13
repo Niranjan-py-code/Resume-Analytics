@@ -1,0 +1,45 @@
+awscloud,bigdata,Devops,Microsoft.Net,Java developer
+ aws, bigdata,dev-ops-engineer,  core-net,java developer
+ iam, big data,  devops, .net,  core-java:
+ vpc, hadoop, linux," ""c#""", java
+ ec2, spark, python, visual studio,
+ s3, pig, bash, sharepoint, oop
+ ebs, zookeeper, sh, MCSD.NET, object oriented
+ cloudwatch, hive, golang, microsoft certified, OO programming
+ lambda, map/reduce, newman, mcp, lamdas
+ sns, data lake, ci, ado.net, design patterns
+ sqs, sqoop, service-now, visual basic, generics
+ dynamo db, storm, servicenow, vb.net, collections
+ elastic search, yarn, postman, vb, sun certified
+ cloud native, netezza,  devops-configure:, visual source, scjp
+, nifi, terraform, source safe, scwd
+, ranger, ansible, asp.net, java developer
+, ambari, puppet, crystal reports, reflection
+,, code deploy, vbscript, threading
+,, code pipeline, delphi, multi-threading
+,,  devops-monitor:, iis, multithreading
+,, elk, team foundation server, xml
+,, splunk,, log4j
+,, relic,,
+,, kibana,,
+,, elastic search,,
+,, nagios,,
+,,  devops-package:,,
+,, docker,,
+,, lambda,,
+,,  devops-cloud:,,
+,, ec2,,
+,, ami,,
+,, elb,,
+,, vpc,,
+,, kubernetes,,
+,, ecs,,
+,,  devops-containers:,,
+,, docker,,
+,, AWS ECS,,
+,, AWS EKS,,
+,, Kubernetes,,
+,, Fargate,,
+,, mesos,,
+,, marathon,,
+,, rkt,,

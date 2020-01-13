@@ -1,0 +1,122 @@
+﻿Sejal Agarwal										
+
+PROFESSIONAL SUMMARY
+    • Around 5 years of experience in the field of Information Technology, specialized in Software Quality Assurance and Implementation of QA Methodologies on Client/Server, Web and mobile applications.
+    • Competent with the day-to-day responsibilities of a Certified Scrum Master including developing and maintaining Agile training, providing guidance, ensuring that processes are aligned with the goals of the business, and measuring processes against the corporate quality goals.  
+    • Completing tasks by fulfilling the requirements within the deadliness, with dedicated effort, motivation and team spirit.
+    • Experience in full Software Development Life Cycle (SDLC) Methodologies and Validations to ensure the Quality Assurance Control.
+    • Experienced in all aspects of testing processes includes Planning, Preparation, Execution and Completion.
+    • Proficient in using test automation tools such as Selenium WebDriver/ QTP and HP Quality Center to develop automation scripts for web and client server applications.
+    • Experience in building Automation framework using Java, TestNG, Maven, Ant and Jenkins.
+    • Experienced in developing Data Driven, keyword, hybrid and POM Framework using selenium Web driver.
+    • Experience in both waterfall methodologies and Agile Methodologies.
+    • Expert in Performance Testing with an excellent command on HP QC, and JMeter and Expertise in developing complex performance test scripts.
+    • Facilitated meetings between testing/development and business team to provide summarized results along with reports and metrics on issues and defects issue/defect reporting to show the ability of the product to go live or not.
+    • Strong working experience in different types of Performance and reliability Testing (Load Stress, Endurance, Capacity, Volume, Scalability, Reliability etc.) by using JMeter.  
+    • Expertise in creating Test Plans, Test Strategy and Test cases documents and their execution both Manual and Automated. 
+    • Expert in report gatherings, load modeling and report analyzing for performance testing.  
+    • Proficient in creating business based functional Test Scenarios, Test Plans, Test Cases, Test Scripts, Test Specifications and Traceability Matrix.
+    • Experience in web services testing for SOAP, REST services using tools such as Soap UIand Rest Client.
+    • Experience include Unit testing, Functional testing, User Acceptance Testing, Integration testing, System testing, Performance testing, Sanity testing, risk-based testing, Compatibility testing & Security testing of client/server and Web based Applications.
+    • Proficient in analyzing system & functional specifications, UI wireframes, use cases, business requirements, business rules to prepare test cases/scenarios.
+    • Experience in writing and executing SQL queries to perform Data Validation and Back end testing to check the integrity of data.
+    • Experience in column mapping validation and ETL testing for data pipeline jobs.
+    • Hands on working experience with testers, developers and other project team members, testing complex projects and software product enhancements.
+    • Effective proactive problem solver, outstanding interpersonal skills, excellent communication skills. Ability to work independently as well as within a team environment in a rapid changing environment.
+
+
+
+TECHNICAL SKILLS
+    • Automated Testing Tools      : Selenium WebDriver/ TestNG,  JMeter, HP Quality Center,  
+    • Test Management Tools        : Quality Center 11.0/10.0/9.x/8.2.
+    • Scripting Languages                : HTML5, CCS3, Java Script,
+    • Languages                                    :SQL, Java, Open Edge Advanced Business Language, COBOL
+    • Database                                       : DB2, Oracle, MySQL, MS SQL Server
+    • Build Tools		: Ant, Maven
+    • Continuous Integration tools :Git, GitHub, Jenkins
+    • Browsers	: Internet Explorer 6/7/8, Firefox, Google Chrome
+    • IDE	:Selenium IDE, Eclipse, RFT
+    • Agile/Scrum Tool: Jira, Confluence
+
+PROFESSIONAL EXPERIENCE
+UTest (Remote)	July 2019 – Current
+Software Tester
+Roles and Responsibilities:
+    • Createdand executed test script by adjusting available preferences using Android Studioto testcustomer account features.
+    • Performed User Integration Testingtoensure all page elements like buttons, links, images, text, and video are consistent across the iOS and Androidapp
+    • Created automated script inSelenium thruJavausing Appium Serverforinvoking the validation server.
+    • Performed Smoke Testing byselecting a location, date/time, creating customize order and adding menu items & add-ons to your order.
+    • Tested the website interface using changed view (grid vs list)
+    • PerformedWeb-based Testing for Add to cart, sharing, select a size, reviews both manually and automated test scripts.
+    • Found, logged and track defects holistically including checkout and adding promo codes up until processing paymentand ensured the defect resolution
+
+Owens & Minor(Minneapolis, USA)January 2019 – April 2019
+QA Engineer
+Roles and Responsibilities:
+    • Evaluated and analyzed the end to end process for time effectivenessof complete supply chain processing.
+    • Builtvalue stream mapping for various functions starting with Inbound (Receiving to Put away and & Replenishments), to Outbound (Just the core picking functions). 
+    • Built process/VS mapping which included VA/NON-VA per activity, Takt time, functions in scope cycle time per Line, uptime.
+    • Analyzed waste detection and provided recommendations for removal.
+    • Did quality assurance testing to reach 95% effectiveness of inbound to outbound process.
+
+CGI   (https://www.cgi.com/en)                                                                                       March 2015 – September 2017
+QA Analyst/ Performance Tester / Software Tester
+Roles and Responsibilities:
+    • Worked on the user stories and plan sprints with respect to SDLC.
+    • Actively participated in Stand-up meeting, walkthrough meeting, weekly assessment meetings and daily bug triage meetings and interacted with developers and business analysts to ensure high quality of the application under test.
+    • Read the design Documents to write High Level scenarios, Test cases and Test script for automation testing.
+    • Provided the estimate required for testing effort.
+    • Performed UAT testing by reviewing the business requirements with business team along with technical team.
+    • Developed and scripted manual and automation test scripts.
+    • Conducted post-release/ post-implementation testing.
+    • load test functional behavior and measure performance JMeter tool.
+    • Collaborated with Software Developers to create effective strategies and worked on software CI/CD processes and test plan.
+    • Reviewed and analyzed user stories.
+    • Communicated with business analysts in Finland, UK and to gather accurate specifications.
+    • Executed test cases/scripts (manual or automated) and analyzed results.
+    • Evaluated product code Written Open Edge Programmer.
+    • Worked on a Progress language window and web based.
+    • Created Json logs to document testing phases and defects.
+    • Reported bugs and errors to development teams.
+    • Help troubleshoot issues
+    • Worked with cross-functional teams to ensure quality throughout the STLC.
+    • Used HPQC to manage work items - defects, user stories, tasks, etc.
+    • Analyzed and executed SQL queries through AQT tool.
+    • Performed ETL testing and Column mapping validation for data pipeline jobs.
+    • Prepared and executed test cases.
+    • Preparation of Defect report using Defect tracking tool.
+    • Working on Automation testing selenium tool using java language.
+    • Worked on the Web-driver, TestNG.
+    • Conducted Smoke Testing, Regression testing, Integration testing, Look and feel Testing
+
+Project:  LTC-OTSO(Finland, UK)
+    • Claim Form Testing (Web Based Testing using Selenium tool). Tested web link claim form for usability and alignment along with data field testing for data validation as per business rules using Chrome. Ensured performance for appropriate response time of the claim form after completed user action.
+    • Winsure Usability Enhancement (Windows Based Testing).  Completed regression and usability testing for look and feel of each window. Tested multi-tasking and navigation capabilities using JMeter.
+    • Component Factory (SOUP UI Testing). Collaborated with Developers to create and execute effective strategies and test plan. Executed manual scripts in test suites and analyzed results to validate product code according to acceptance criteria and document test cases in HP Quality Center.
+    • MAKO Conversion (Database Testing). Ensured data quality by validating the referential integrity and foreign key validation of production data during migration from Mainframe to Winsure for existing policy using Advanced Query Testing tool.
+    • Funds Integration (Web Based Testing). Validated the data fields and schema adherence in JSON logs 
+
+
+SoftSol Enterprises (Delhi, India)                                                                                  Sep 2013 – March 2015                                                                                                                           
+QA Automation tester
+Roles and Responsibilities:
+    • Conducted Performance, Black box, Manual Testing, Functional Testing, and Regression Testing. 
+    • Test Environment and Test Data preparation.
+    • Executed and written test cases on Selenium IDE.
+    • Preparation of test plan, test cases, test setup, and test cases document and update it. 
+    • Involved in periodic project meetings and exchange all ideas for better improvement of quality standards.
+    • Generated and replicated the test data for testing product needs.
+    • Bug Finding, Bug Logging, Bug Review, Bug Follow Up (going through whole 'Bug Life Cycle'). 
+    • Verified Process flow by writing and executing SQL queries and stored procedures.
+    • Worked on data preparation for different test scenarios including negative testing to provide accurate delivery of overall functionality of the product.
+
+Project:  Docsoft
+    • DOCSOFT is a comprehensive IT solution for, all the needs of a practicing Doctor, as well as the Clinic as a whole to Generate an Electronic ID for each patient and Recording all the relevant information about the patient for references, Presenting all the relevant information in a precise summary, for facilitating Doctor and Generation of an Automated Prescription.
+
+EDUCATION AND CERTIFICATIONS
+    • Master’s in engineering management, St. Cloud State University, MN
+    • Bachelor’s in engineering, Nitte Meenakshi Institute of Technology, India
+    • Certifications: QSpider’s (Certification in Manual Testing, Selenium & SQL), Bangalore
+    • Certified Scum Master (CSM)
+    • Wrote Research paper on “Agile in Software Quality”. 
+

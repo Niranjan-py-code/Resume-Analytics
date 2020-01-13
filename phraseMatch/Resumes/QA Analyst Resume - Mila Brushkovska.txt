@@ -1,0 +1,92 @@
+﻿Mila Brushkovska
+
+QA Data Analyst/Tester
+milchenok@gmail.com
+  571-335-5936	
+
+­­­______________________________________________________________________________
+EXECUTIVE SUMMARY
+
+    • Software QA Data Analyst/QA Tester with 8 years of professional experience, which includes the Test & Evaluation of federal health information and clinical support systems.   
+    • In-depth knowledge of Unit, Acceptance, Integration, 508 Compliance, Regression and Functional testing.  
+    • Test automation experience with UFT and Selenium.
+    • Proficient with a range of 508 Compliance tools, including JAWS, WAT and Test Partner.
+    • Experienced with the use and administration of Rational Tool Set to support software testing throughout the Software Develop Life Cycle (SDLC). 
+    • Experienced in legacy data and document migration.
+    • Expert at requirements elicitation and decomposition. 
+    • Strong organizational, analytical, communication, and documentation skills.
+    • Demonstrated experience using the Agile methodology, certified Scrum Master. 
+
+
+______________________________________________________________________________
+
+Professional Experience
+
+The McVey Company, Inc                                                                        Oct 2017 - present
+
+TMCI International, LLC, (Tier 2.5)
+Data Analyst
+    • Performing Data Analysis on data repositories by identifying, screening and resolving data quality problems.
+    • Performing analysis, remediation, and reporting of patient encounter errors that might present itself on the Clinical Data Repository (CDR) or Composite Health Care System (CHCS) for the military personnel.  
+    • Using SQL queries for verifying and validating data.
+    • Performing analysis on Department of Defense personnel security issues. 
+
+
+Valytics LLC, (DT&E, DOD Project) 
+QA Tester                                                                                                  
+    • Test support to DHSS offices, specifically Centralized Credentials Quality 
+Assurance System (CCQAS)
+    • Participating in SIT, SQT, and SAT events, preparing test plans and reports, executing test scripts and test scenarios. 
+    • Responsible for analyzing requirements, prioritizing testing activities, input and tracking defects in Quality Center. 
+    • Performing User Acceptance Testing and 508 Compliance Testing.
+
+
+Appian Logic, LLC, (DHS Project)
+Test & Evaluation Lead					                   Aug 2016 – Aug 2017
+    • Test & Evaluation Lead responsible for the creation of business and test scenarios and presenting them to end users and project management team for validation.
+    • Develop test cases and scripts in accordance to business requirements and technical implementation of requirements.
+    • Lead test execution, including: supporting test scripts, consolidating defects, tracking defects, and re-running test scripts.
+    • Support User Acceptance Testing by providing UA Testers with test scripts and custom test scenarios.
+    • Identify and create test data.
+
+DKW Communications, INC, (FSIS project)
+Senior Software Tester			                                           Aug 2015 – July 2016
+    • Senior Software Tester that analyzed business requirements and developed test scenarios, test plans and test cases.
+    • Created user acceptance test scripts and facilitated UAT events.
+    • Performed manual Functional, Regression, Integration and Security testing of web applications.
+    • Maintained and executed automated test sets in Cucumber and Selenium.
+    • Used Test Manager to store test results and manage test defects tracking from discovery to closure, including resolution and retesting cycles.
+
+VetsAmerica/Deloitte (VBMS project)
+Test Analyst        		                                                                June 2014 – July 2015
+    • Business Test Analyst and technical liaison between the customer and the software development team that provided support in analysis, design, implementation, and testing phases on the Software Development Life Cycle.
+    • Supported all phases of risk management assessments and software/hardware development with emphasis on leading analysis of user requirements, test design and test tools selection.
+    • Identified high risk areas of system under test to target during testing.
+    • Wrote test scripts and scenarios for User Acceptance Testing and 508 Compliance Testing.
+    • Allocated QA Team resources to ensure that appropriate time and test scripts are established to successfully test the solution.
+    • Evaluate and report on the outcome of each Test Cycle based upon tangible test results.  
+
+ByLight Professional IT Services
+Test Analyst				                                                    April 2011 – Dec 2013
+    • As a Business and Test Analyst participated in review meetings and took the initiative to meet the QA testing targets.
+    • Participated in daily status meetings to report bugs, issues and risks.
+    • Provided support in analysis, design, implementation, and testing phases on the Software Development Life Cycle.
+    • Identified and documented new requirements for various projects.
+    • Created use cases, relevant diagrams and other requirements documentation.
+
+CSI International, INC 
+QA Test Engineer						                Mar 2010 – April 2011
+    • QA Test Engineer on Independent Verification and Validation Team for the 
+      Department of Homeland Security US Citizenship and Immigration Services.  
+    • Performed extensive functional, regression, and usability testing on component, integration and system-level applications.
+    • Followed Agile and Waterfall methodologies as defined by DHS System Engineering Life Cycle (SELC).
+_____________________________________________________________________________________
+Education
+
+    • BS (Architectural Engineering) Kiev, Ukraine.
+
+_____________________________________________________________________________________
+Clearance
+
+T5 Favorable/ OPM/DOD CAF
+

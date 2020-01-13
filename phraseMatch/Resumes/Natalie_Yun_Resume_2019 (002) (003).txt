@@ -1,0 +1,50 @@
+﻿
+Summary:
+9 yrs. of IT experience as a Quality Assurance Analyst within the Healthcare IT field, with knowledge of SDLC methodologies such as AGILE-SCRUM and Waterfall. Additionally, skilled in performing manual software testing applications, in the client server internet/intranet environments. Full system lifecycle experience which includes: designing, developing, requirements management, implementing test plans, test cases and test processes.
+Computer Skills:
+Software:	MS Office Suite: Excel, Word, PowerPoint, Outlook, Eclipse MS SharePoint, Microsoft Test Management (MTM), Quality Center, JIRA, Rational ClearQuest, and Team Foundation Service (TFS)
+Education:
+Bachelor’s Degree in Accounting, College of Economics and Law, Shymkent Kazakhstan		1996
+Programming Software Quality Learning Center, Rockville, MD					2008
+Testing Classes, Montgomery College, Rockville, Rockville MD					2004
+Professional Experience:
+BAE Systems, Rockville, MD	May 2017—Present
+Engineer 2
+    • Provide software testing and data support for the US Navy
+    • Collaborate with software development engineering team and project manager to ensure full system life cycle testing is conducted before each release 
+    • Performs integrated and functional testing
+    • Create and execute Test Plans, Test Cases, Product Backlog Items and Defects 
+    • Work closely with UI specialists to improve testability of requirement specifications
+    • Work closely with the Analytics team to ensure all requirements are met and they meet stakeholder’s expectations 
+    • Collaborate with off site development team 
+    • Report issues, debug and provide detailed information to the development team
+    • Meeting coordination and support
+    • Scrum management 
+Digital InfusionContractor, NIH, Bethesda, MD	May 2015—May 2017
+Quality Assurance Analyst
+    • Provided support to multiple systems (DocTrack, Internal Photo Application, HR Resume Search, and Project Management Information System) to ensure new enhancements performed as expected and met user requirements captured through stakeholder requirements sessions 
+    • Intranet DepartmentSharePoint 2010 developed intranet with custom branding and custom web capabilities. 
+        ◦ Tested the intranet and the custom applications built in combination with the SharePoint 2010 Intranet
+    • DocTrack Application DevelopmentCustom based application built separately for both 2010 and 2013 SharePoint environments incorporating UI that was developed using scripting technologies with an enabled workflow. 
+        ◦ Led a team of three tester during the end to end testing of DocTrack
+        ◦ Contributed design ideas and suggestions as part of the design effort 
+        ◦ Created and executed test cases, using MS Test Manager and HP Quality Center, to test internet functions and custom applications
+        ◦ Participated in daily team scrums
+        ◦ Conducted Browser Compatibility Testing
+        ◦ Performed Functional Testing, Performance Testing and Regression Testing
+        ◦ Logged and tracked bugs in TFS tracking tool
+LAT Corporation, Inc.Contractor, Dept. of Transportation, Washington, DC	April 2010—July 2015
+Quality Assurance Analyst
+    • Provided support for an existing Personnel Compensation Budgeting Utility (PC&B) application intended as an intranet computation tool that prepared personnel budget forecasts for the current fiscal year and the next two (forecasted) fiscal years. This system allowed viewing and editing of personnel details for each employee within the OST organization for priming the forecasting computations.  
+    • Worked on multiple SCRUM teams for a roll out of a large scale J2EE COTS solution system
+    • Executed Test Scripts utilizing MS MTM and MS TFS
+    • Collaborated with Business Analysts to develop Use Case Specifications during Peer Reviews 
+    • Collaborated with Development team for triage and validation of Production reported issues
+    • Worked on Sprint test execution, bug reports, and regression testing
+    • Supported testing of Load and Stress scenario definitions, Web Service validation, and Automation Test scenarios
+    • Assisted with Entry and Exit criteria definition and validation
+    • Verified compliance, validation and closure of Requirements
+    • Supported UAT Alpha preparation for environment setup and test data creation
+    • Participated in daily Development Stand up meetings during major Enterprise Release planning 
+
+

@@ -1,0 +1,164 @@
+Padmavathy Narravula
+Summary
+• 10+ years’ experience in Software Quality Assurance, development of Web application, client server technology
+and database design.
+• Experience with creating test plans, writing and executing test cases, manual testing.
+• Experience in mobile testing and testing applications in AWS Cloud environment.
+• Involved in automated ETL test shell scripts to validate smoke and regression tests in AWS Pipeline.
+• Expertise experience in implementing QA methodologies, test plans, test cases, test scenarios and test
+deliverable.
+• Programming experience in developing PL/SQL stored procedures, triggers, shell scripts, ETL scripts for testing
+purposes. Experience working with databases such as Oracle, SQL Server and MS – Access.
+• Sound knowledge of Medical Industry, Mortgage Industry, Financial.
+• Expertise in Problem solving and Bug Tracking Reports using Bug Tracking Tools.
+• Strong Team player with good interpersonal skills. Proactive person with logical approach to challenges and can
+work effectively as an individual or within team under high pressure.
+• Ability to self- motivate and be flexible within a fast-paced environment.
+• Strong Analytical and Problem-solving skills.
+Achievements:
+• STAR Performer award at MIDAS project.
+• Appreciation award within internal Test team at MIDAS Project.
+• Best Performance Yearend Team award at Freddie Mac.
+• Star Employee of the year Performance award at COMPUGAIN Corp for Fannie Mae client.
+Technical Skills
+Databases
+Languages
+Technology
+GUI
+Tools
+
+SQL Server, Oracle 11.x, Redshift
+PL/SQL, SQL, Java, Java Script, ASP, XML, HTML, Shell Script, Hive
+AWS Platform, Hadoop
+Visual Basic, Developer 2000, HTML, Oracle Forms/Reports, Congo’s Reports
+Q Test, Jira, Confluence, Test Director, Win Runner, Rational Robot, SQL TOAD, DOORS,
+ClearCase, ClearQuest, SCM, HPQC, JIRA, CALT –Bug Tracking, Pentaho, GitHub, Selenium
+Web driver
+
+Education
+Bachelor of Technology in Engineering, Regional Engineering College, India.
+Professional Experience
+CACI, Herndon, VA
+May 2015 – Jun 2019
+Data Analyst/ Senior Software Quality Assurance Engineer
+MIDAS will serve as the data warehouse for the Center for Consumer Information and Insurance Oversight (CCIIO). Data
+will continue to be collected and stored in transactional systems. MIDAS will be used to store historical data, generate
+executive reports and perform data analysis across data marts.
+• Worked independently and SME on various complicated modules in MIDAS project
+• Extensively involved in various activities like data analysis, data copy and executing jobs in Prod environment
+during the phase of legacy project transition to AWS Cloud environment.
+• Prepared vast test data for Testing applications in AWS Cloud and developed ETL scripts for smoke and
+Regression Testing in AWS environment
+• Work closely with Engineering Managers, Release Managers to ensure deliverable and Quality of the product is
+met.
+• Played key role in MIDAS project in data analysis, data flow which is challenging in the modules, worked on to
+achieve desired product results.
+• Active participation in performing thorough data analysis and QA Testing in majority of MIDAS important data flow
+Project Threads
+• Train new hires/team members in MIDAS project with application demo, instructions, guiding on creating test case
+scenarios, data creation and supporting the new members to team during the initial months in the project
+• Active participation in all design review meetings, Scrums in providing feedback on the processes improvements
+to achieve high quality product
+• Have extensive knowledge on understanding the application and debug the code for issues and seek out
+solutions to dev team.
+• Work independently and extensively to achieve to meet all releases QA Deliverables On-time
+• Worked extensively in latest technologies like Hadoop/Hive in MIDAS project.
+
+Micro Pact, Herndon, VA
+Apr 2013 – Apr 2015
+Sr. Software Quality Assurance Engineer
+Micro Pact’s major Entellitrak Product which serves many Federal Projects. A unified platform for Case Management and
+Business Process Management. Modules Worked in Entellitrak Product: Document Management, E-scan, Mobile,
+Analytics (Data RPM Portal), Time Zone, UI Modules.
+• Worked independently and Lead Role on various Entellitrak Modules and meeting QA Deliverables On-time.
+Active Participation in all Agile Scrum Meetings, Sprint Kick Offs, Release Planning, Analysis with Product
+Development, Project Management Teams
+• Work closely with Engineering Managers, Release Managers to ensure deliverable and Quality of the product is
+met. Participation in Agile Scrum Meetings, Sprint Kickoff’s
+• Managing/Maintaining, Test Strategy, Test Plans, Automation Strategy in Confluence, Jira, Q Test.
+• Involved in deploying the code on QA environments/Local environments using Tomcat Server 7.0 on Oracle &
+SQL Server Databases.
+• Worked on writing extensive SQL queries for Analytics Module data comparison of Data RPM Reports,
+Dashboards & Explore views
+• Worked on writing Script objects-based bean shell, Java API’s for E-Scan module.
+Sallie Mae, Reston, VA
+Dec 2011 – Mar 2013
+Quality Assurance Specialist
+Tested Tuition Payment Plan application and extensively involved in QA Release activities of TPP Application. TPP
+Application is a Web Application developed by Sallie Mae that is an interest free option payment plan provided for the
+college students to pay their payments on Installment basis.
+• Involved in writing detailed test cases using HP Quality center ad test plan for TPP project and any defects
+identified are logged in HP Quality Center.
+• Involved in deploying/Build the code in QA environments using SCM tool and provided UAT Testing support.
+• Played a key role to co-ordinate with dev and business for application related production issues.
+• Played a key lead role in major revenue fetching UI Releases.
+• Extensively ran Jobs in Oasis application in order meet the different criteria needed for testing.
+Freddie Mac, McLean, VA
+Mar 2011 – Dec 2011
+Software QA Tester
+Tested Quartet developed MFOSL product that will be used by Freddie Mac to meet certain goals in accounting world.
+There are two primary goals of the MFOSL Project. The first is to provide a solution for the gaps found in the MARS/Loan
+IQ system and second is to establish a key component i.e. a centralized sub-ledger.
+• Involved in writing test cases in HP Quality Center and test plan for MFOSL Project.
+• Developed PL/SQL Scripts with complex queries to automate the application to a certain extent to ease the
+testing of the application. Comparison of actual and expected results is done using this PL/SQL Script. This script
+helped to ease the validation for huge sets of data.
+• Extensive data Analysis by coordinating with business and system analyst teams for any gaps found.
+• Executing Auto Sys scripts in UNIX environment and verifying the logs/trace files for any errors.
+Fannie Mae, Herndon, VA
+Oct 2007 – Jun 2010
+Software QA Tester
+Nov 2005 – Nov 2006
+Reclassification in Servicer Investor Reporting (SIR): Loan Reclassification removes loans out of pools and reclassifies
+them as cash loans due to reasons such as severe delinquency, making an attribute change which makes the loan
+ineligible to participate in the pool.
+• Involved in generating RTM’s using DOORS and HP QC.
+• Defects Identified are logged using Clear Quest.
+• Testing of Business Objects
+• Involved in writing complex SQL queries for data retrieval
+• Executing Auto Sys scripts in UNIX environment and verifying the logs/trace files for any errors with testing or
+code.
+AOL, Sterling (ETI America)
+Apr 2005 – Nov 2005
+Sr. Software Tester
+Tested application stratus re-host product. This Re-hosted application used Batch processing system, Batch Reprocessing system is a part of AOL Billing system process.
+• Involved in developing the shell scripts for volume testing. Involved in designing TSD and test plan document
+• Involved in all the PRD (Project review) TRD (Technical Review) SDD (System Design) meetings and developed
+test cases accordingly.
+
+•
+•
+•
+
+Extensively involved in regression testing, system testing and performance testing of Ab-initio graphs and used
+BLT Tool for defects logging.
+Interacted with the developers to resolve the technical issues, reported the bugs using Test Director
+Using DB2 database to verify and for testing the data
+
+Verizon Business (Former MCI)
+Jan 2004 – Dec 2004
+Data Analyst/ Developer
+Worked in development of Network Financial Systems Management NFSM Project. The Telco Account Management
+System (TAMS), MCI’s primary system for receiving, tracking and paying Telco related invoices, has the ability to store
+and track claims. It captures and contains LEC billing information that it receives via automated feeds from six other MCI
+systems and from manual data entries.
+• Analysis and System Design, worked as a member of team to design, develop, deploy.
+• Involved in Coding of Oracle procedures, functions, triggers
+• Developed screens for Administration application & coding are done in Oracle 8.0(Back end) & Developer
+2000(front end).
+• Developed Reports for Production applications using SQL/Shell programming.
+• Supporting Production issues for NFSM application screens and Database issues and fixing the bugs.
+• Working with Web-focus tool extensively to query the data, verify the data and also involved in data dictionary
+updates.
+Verizon, New York (Silver Line Technologies Ltd)
+Feb 2000 – Dec 2001
+Software Engineer
+Worked in development of CAFÉ Project, CAFÉ project is an order processing system for telecom ASR Requests. The
+system gets input as MECHIO, processes and validates the order and formats into the service order format in such a way
+that it can be billed easily by an existing mainframe system CABS and returns confirmation notice to its customers.
+• Analysis and System design involved in Impact Analysis Report (IAR)
+• Developed PRO * C applications based on the customer requirements.
+• Generated Oracle Reports for Status of the Access Service Requests.
+• Developed SQL reports for Verizon Users for manual orders.
+
+

@@ -1,0 +1,46 @@
+Architect and deliver scalable solutions that meet business requirements.
+Lead projects through gating reviews.
+Confer with stakeholders to define business requirements, and roadmaps, for complex systems development – from both functional and non-functional perspectives (i.e. concept of operations, security, performance, test, cost, schedule, training, support and disposal).
+Collaborate with various technical teams to develop, expand, and refine comprehensive architecture models that drive enterprise solutions with reference architectures and thus minimize point solutions.
+Model business and systems processes.
+Evaluate alternative architectures with respect to composition, e.g. people, hardware, software (buy vs. build), security, facilities, policies, documents, risks and cost.
+Validate the architecture’s compliance to the requirements and verifies the system’s compliance to the architecture.
+Develop, document, and communicate plans for investing in systems architecture and enforcement of system standards as necessary.
+Contribute to technology strategy and planning. Conduct research and build proof-of-concepts on emerging technologies in support of systems development efforts, and recommend technologies that will increase systems’ flexibility.
+Review new and existing systems design projects and procurement or outsourcing plans for compliance with standards and architectural plans.
+Provide subject matter expertise to Software Engineers, other Systems Architects, and application teams.
+Bachelor's degree in the field of computer science or systems engineering (Master’s degree preferred).
+Professional training and/or certifications using Amazon AWS and Microsoft tools and technologies desired.
+10+ years of general experience in systems design and integration
+Architecture Experience - 5 years minimum across multiple disciplines (Agile Methodologies, Scrum Framework, Risk management, Technology planning, design, development, System Integration).
+Extensive experience in developing strategic solution architecture plans.
+Exceptional analytical, conceptual, and problem-solving abilities.
+Superior written and oral communication skills; ability to present ideas in business-friendly and user-friendly language
+Excellent architecture and software development skills.
+Proven experience in systems and cloud network design and development.
+Strong understanding of information processing principles and practices.
+In-depth technical knowledge of networks, storage systems and computing platforms including Amazon AWS, .NET, Windows, and CI/CD pipelines.
+Technical knowledge of Cloud Computing patterns, DevOps methods, CI/CD automation practices and Microservices e.g. DDD, Messaging vs. REST, Data isolation, AWS etc.
+Strong knowledge of COTS evaluation principles and practices.
+Strong knowledge of applicable data security principles and practices.
+Extensive and recent full-stack web development skills.
+Maintain knowledge of current and emerging tools, technologies, solutions and methodologies.
+Create synergies and reuse within and across projects. Able to prioritize and execute tasks in a high-pressure environment.
+Experience working in an agile development environment with continuous integration / continuous development;
+Strong interpersonal skills.
+Strong consultative skills.
+Highly self-motivated and directed, with keen attention to detail.
+Strong leadership skills and customer satisfaction orientation.
+Lifelong Learner – what is learned today will be obsolete tomorrow; demonstrated continuous learning
+Willingness/ability to work off-shifts (evening, night-time, weekend)
+14 years of experience in software analysis
+6-8 years of experience in enterprise application Development using Java-J2EE
+Good development expertise in Core Java, J2EE, Servlets, Webservices (REST , SOAP), Spring MVC, Hibernate or IBatis, 
+EJB experience is added advantage
+
+Good Knowledge in Oracle or MySQL
+Possess good knowledge of object-oriented design and development (OOA/OOD) and J2EE framework and data architectures.
+
+Hands on experience in JBoss and Weblogic/Websphere server deployments
+Working knowledge of JUnit Unit testing or any other tool
+Working knowledge in Unix

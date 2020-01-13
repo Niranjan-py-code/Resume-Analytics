@@ -1,0 +1,90 @@
+﻿Rimsha Khattak
+Virginia, VA 20152       516-859-1528         Rimshakhattak88@gmail.com
+QA Automation Engineer
+
+Objective
+Seeking an opportunity to work as Test Automation Engineer in an organization where my knowledge and experience can be utilized and enhanced as well that values development and success of its employees.
+Professional Summary
+
+    • QA Test Automation Engineer with 6 years of progressive experience in financial, healthcare, Real Estate industries.
+    • Proficient in Waterfall and Agile (Scrum).
+    • Experienced in SDLC and STLC.
+    • Extensive experience in Functional testing, Black box testing, User Acceptance testing (UAT).
+    • Experience in creating/executing test cases manually and developing test automation frameworks from scratch.
+    • Solid core Java OOP knowledge and experience in developing Selenium WebDriver test automation frameworks using TestNG, JUnit and Maven build tools.
+    • Hands on experience in test automation with Behavior Driven Development framework (BDD) using Cucumber, Gherkin, JUnit and Page Object Models (POM).
+    • Extensively used Test parametrization methods including Cucumber Feature Outlines, TestNG Data provider, JUnit Parameterized Class and external data sources (Excel and XML).
+    • Cross browser web testing experience with Selenium Grid and Web Driver.
+    • Extensively used XPath, CSS and other locators to handle Web Elements like textbox, button, dropdown, and checkbox in test automation projects.
+    • Working experience with Jenkins as Continuous Integration (CI) server to automate execution of Smoke and Regression test suites and generate JSON and HTML test reports. 
+    • Used Git as code repository and Code Collaborator to manage code reviews.
+    • Proficient in backend/database testing including writing SQL queries and connecting to database with JDBC API (Oracle, SQL Server) for validating the application against the database.
+    • Expertise in documenting defects with high level of detail, accuracy, and informative recreation steps using JIRA.
+    • Excellent analytical, problem solving, communication and interpersonal skills.
+    • Enthusiastic team player with the ability to lead, manage and work independently in a time sensitive environment.
+
+Technical Skills
+
+Platforms:				Windows (XP, 7, 8, 10)
+Languages:				JAVA, SQL, XML, HTML			
+Testing Tools:			Selenium IDE/WebDriver
+IDE:				Eclipse
+Web Technologies:			HTML, XML, CSS
+Test Framework:			Junit, TestNG, Cucumber, Data Driven
+Processes:				Agile, Waterfall
+Version Control:			GIT
+Continuous Integration Tools:	Jenkins
+Databases:				Oracle, MySQL
+
+Professional Experience
+
+
+Mu3 Consulting Inc.
+Client: Goldman Sachs Group					           August 2017 - Present
+Role: Senior QA Automation Engineer
+
+Responsibilities:
+    • Work closely with business analyst and developers for thorough requirements review and developing test scenarios.
+    • Assist in developing Test plans and help with detailing Test Scenarios and writing Test Cases from the Functional Requirements.
+    • Identify test cases for automation and automate them using Selenium WebDriver, Maven, JUNIT, POM and JAVA Object Oriented programming using Eclipse IDE. 
+    • Develop test automation frameworks in Selenium WebDriver using Behavior Driven Development approach with Cucumber and configure Jenkins server for scheduling and executing Smoke and Regression tests. 
+    • Organize the framework with Page Objects Model for easy maintenance and readable test codes.
+    • Use Maven to define project structure, dependencies, build, and test management.
+    • Retrieve needed data from Oracle Database writing SQL Queries and validate the GUI information against the database.
+    • Perform data driven testing by using JDBC to connect automation framework to the data source and configuring SQL queries to fetch data from the Oracle database.
+    • Use JIRA for analyzing User Stories, New Features/Enhancements and tracking/documenting defects.
+	Environment: Selenium WebDriver, Java, JUnit, Jenkins, Cucumber, TestNG, Agile, SQL, Maven, HTML, XPath, Eclipse, HTML, GitHub, Windows 7.
+
+
+United Health Group 						           July 2015 – July 2017
+Role: QA Automation Tester
+
+Responsibilities:
+    • Reviewed business requirements documents and Specifications and understand the scope of the application.
+    • Involved in discussions with business analysts and Subject Matter Experts (SME) during creation of test plans.
+    • Created /executed Test Cases manually for functional testing tracked test plans using JIRA.
+    • Involved in designing and implementation of Selenium WebDriver automation framework for smoke and regression test suites.
+    • Configured Selenium WebDriver, JUNIT, Maven and TestNG. 
+    • Performed Regression testing for new builds and configured parallel and cross browser testing with TestNG.
+    • Checked the data flow through the front end to back end and used SQL queries to extract the data from Oracle database.
+
+Environment: Java, Selenium WebDriver, Jenkins, Junit, Maven, Cucumber, TestNG, XPath, Eclipse, HTML, CSS, XML, SQL, Agile, Oracle and Windows.
+
+
+Graana						    		    January 2013 – June 2015
+Role: Manual Tester
+
+Responsibilities:
+    • Analyzed business requirement documents (BRD) to understand Functional Specifications.
+    • Executed test cases according to Requirement Specifications and generated test summary reports.
+    • Performed Ad hoc testing to ensure major and basic functionalities of the application are working after deployment of every new module.
+    • Performed End-to-End testing after bug fixes and modifications.
+    • Connected to database to Query the database using SQL for data verification and validation.
+    • Participated in daily/weekly status meeting, Coordinate with the Project Manager, Business team, Developers and Testers to resolve the defects & close them.
+
+Environment: Java, Manual Tester, MS Visio, HTML, Oracle.
+
+
+Education
+
+University of Peshawar, Pakistan, Bachelor of Science in Urban and Regional Planning

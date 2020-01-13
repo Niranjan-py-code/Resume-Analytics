@@ -1,0 +1,90 @@
+﻿Harish Kanneganti
+Summary 
+    • Over eight years of diverse experience in IT/Quality Assurance and System Testing of client server and Web based Applications. Well acquainted with the Software Development Life Cycle (SDLC) and QA Life Cycle
+    • Experienced in analyzing Business requirements, Functional and Technical Specifications
+    • Experienced in Developing and Reviewing Test Plans, Test cases, Test Scripts, Test Scenarios and Test Procedures
+    • Used Test Director/Quality Center for test planning, execution, defect reporting and tracking
+    • Expertise in Quality Assurance, Manual and Automation Testing of Client server applications, Window based and Web Applications
+    • Performed Sanity/Smoke, Integration, System, Functional, User Acceptance, Ad-hoc, Usability and Regression Testing
+    • Experience in documenting related to all phases of software testing with high level of detail, accuracy
+    • Expertise in Querying and testing RDBMS such as Oracle, SQL Server, MS Access for data integrity
+    • Exceptionally well organized, strong work ethics and willingness to work hard to meet deadlines
+    • Performed walkthroughs and reviews enforcing the IT processes and standards in the project
+    • Responsible for scheduling assigned tasks, and updating manager on progress and completing tasks as agreed upon time frame
+    • Ability to meet deadlines and handle pressures coordinating multiple tasks in the project environment
+    • Have the flexibility and versatility to adapt to new environments and work on multiple projects
+    • Excellent interpersonal, verbal and written communication skills
+
+Technical Skills
+Operating Systems	Windows, UNIX, Linux
+Languages		C, COBOL, JAVA, J2EE, C++, JAVA, .Net, SQL, PL/SQL, Visual Basic.
+Testing Tools		WinRunner, Quick Test Pro, Test Director, Quality Center, Rational Clear Quest/Case.
+Utilities & Tools	TOAD, Putty.
+Web Technologies	HTML, DHTML, ASP, XML, VB script, Java script, Java Servlets, JDBC, Applets, Web Services, WebLogic.
+Database Tools	Oracle, SQL Server, IMS/DB, MS Access, DB2.
+
+Education 
+M.SC Computer Science
+
+Professional Experience
+Fannie Mae, VA                                                                                                                                    Dec 2017 – May 2019
+Sr. QA Engineer
+    • Autosys Batch calendar execution for each release depending on test data volume size.
+    • Maintained the test environments (data refresh, database backups, restarting the servers, code deployments, troubleshooting issues). 
+    • Responsible for Test Environment configuration, UAT User Interface maintenance for all environments, DB mods, ETL Batch Execution as per production calendar in UAT
+    • Parsing the test data using the Abintio graphs for testers data validation.
+    • Technical Support to entire Master Servicing UAT team.
+    • Write and executed test cases in JIRA.
+    • Performed Integration tests for CIA request with downstream/upstream applications for each release.
+    • Monitored logs to debug issues for failed ETL batches.
+Environment: JIRA, Doors, Toad, WinScp, WebLogic, Putty. 
+
+Freddie Mac, VA                                                                                                                                  Aug 2016 – Nov 2017
+Sr. QA Engineer
+    • Worked as test lead in the Common Securitization Platform integration project.
+    • Involved in the validating the responses received from CSP to Freddie Mac SCC application as per business rules.
+    • Initiated Collapse and Dissolve request from Single Class and Multi Class Pools.
+    • Involved in End to End testing activates between Freddie Mac and CSP.
+    • Logged defects using HP ALM.
+    • Developed Requirement Traceability Matrix between the Test Cases and the Requirements in Quality Center.
+    • Documented all the Test Logs and the Test Summary Reports.
+    • Involved in executing the Test cases in Quality center.
+    • Responsible for validating the XML payloads using XML Spy.
+    • Responsible for the readiness of CSP test Environment.
+    • Worked closely with the developers to troubleshoot and identify the source of issues.
+Environment: ALM, Doors, Rapid Sql, WinScp, WebLogic, Ms-Office. 
+
+Fannie Mae, VA                                                                                                                                   May 2014 – Aug 2016
+Sr. QA Engineer
+    • Analyzed the Functional Requirements and created Test Plan and Test Strategy.
+    • Conducted a risk-based assessment of the functionalities of the application to produce a report to assess the enhancements.
+    • Developed detailed Test Scenarios and created Functional and Regression test cases in QC
+    • Monitored and participated in the execution of the Functional and Regression test cases
+    • Successfully implemented change request and defect tracking using Rational Clear Quest for utilization by developers and QA team.
+    • Conducted regular defect meetings to discuss open issues/questions related to the pending defects.
+    • Prepared the documentation for the Test Result Summary Report for PoolTalk (Fannie Mae Pool Disclosure application).
+    • Linked the Stakeholder Requirements in DOORS to the Test Cases and generated RTM and other test-related documents.
+    • Coordinated with technology to get the disclosure files loaded to acceptance environment.
+    • Validated the Monthly and Daily disclosure files produced by Fannie Mae.
+    • Involved in identification and resolution of problems related to Fannie Mae disclosures.
+Environment: Quality Center, QTP, Doors, Rapid SQL, DB2, ClearCase, ClearQuest, Putty, Hummingbird, WebLogic, Ms-Office. 
+
+Freddie Mac, VA                                                                                                                                  Feb 2010 – May 2014 
+Sr. QA Engineer
+    • Created a test data that satisfies all the requirements/business rules/test conditions Created the XML queries to test persistence of Contract and loan data by analyzing the XML Schema and XPath.
+    • Created and executed complex SQL queries to validate the data as per requirement.
+    • Executed SQL queries and compare the results with results retrieved in the GUI.
+    • Created the test data for labeling the new loans and mapping the old loans to contract.
+    • Checked the framework log files on UNIX server.
+    • Verified the UNIX log files for the stored attribute values.
+    • Running the script batch jobs to move the loans and contracts to Settlement Locked and Funded states.
+    • Used the IBM DOORS for analyzing functional requirements.
+    • Created the reports in Quality Center to check the test case coverage in Test Labs.
+    • Created the test data for loans and contracts for Cash and SWAP allocations.
+    • Communicated with developers and Business Engineers for defect tracking.
+    • Executing test scripts in Rational robot and QTP for the regression testing.
+    • Prepared the Test Scenarios, Test Conditions, Test cases and Scripts in Quality Center for Integration, System and End-to-End testing and documenting Testing process for all activities.
+    • Involved in Gathering requirements from Business and Preparation of Test Scenarios and Test Cases.
+    • Reviewed the Requirements Specifications, Test Schedules according to the project deadlines.
+    • Involved in execution of Test cases and reporting defects and tracking them to closure.
+Environment: Quality Center, QTP, Doors, Rapid Sql, DB2, ClearCase, ClearQuest, Putty, Hummingbird, WebLogic, Ms-Office. 

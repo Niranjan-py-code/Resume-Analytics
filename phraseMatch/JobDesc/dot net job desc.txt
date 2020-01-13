@@ -1,0 +1,25 @@
+﻿Responsible for design, development, delivery and support of Web and Server Applications.
+Collaborate with Technical Leads and SMEs in technical designs and development work.
+Provides technical support for user issues; troubleshoots problems and provide timely effective solutions.
+
+ 
+
+Responsibilities and Duties 
+Bachelor or Master Degree in Computer Science or relevant field.
+Minimum 2 years of Experience developing web applications using AngularJS and Angular 2/4.
+Strong experience JQuery, Bootstrap, Html 5, and CSS3.
+Experience in modern JavaScript MV-VM/MVC frameworks (Angular, JQuery, NodeJS).
+Hands-on experience in Typescript to build UI for web applications.
+Experience writing clean, modular, debuggable TypeScript code using external libraries or custom code.
+Deep understanding of OO concepts
+Strong in C# with .Net 4.0 and above
+Good knowledge in MVC and Web API (REST) & WCF
+Good knowledge in RDBMS/ SQL Server(Stored Procedures, Functions, Views, Triggers etc.)
+
+ 
+
+
+Preferred Skillset 
+C#, ASP.Net, Entity Framework
+SQL Server
+HTML5, CSS, Telerik controls, JavaScript / jQuery

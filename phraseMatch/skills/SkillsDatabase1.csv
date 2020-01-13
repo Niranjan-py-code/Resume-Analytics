@@ -1,0 +1,289 @@
+Soft Skills,Hard Skills
+Integrity,develop
+Highly Motivated,debug
+Collaboration,test
+Collaborative,computer programs
+Education,Programming
+Training,Programmer
+Problem solving,Microsoft
+Professionalism,Microsoft Excel
+Quantitative,MS Excel
+Problem Solving Skills,Microsoft Office
+Problem Solving,MS Office
+Problem-solving,Software Development 
+Best Practices,HTML
+Innovative,SQL
+teamwork,Modeling
+team work,Modelling
+team player,Analytics
+team,Apache
+Listen,Apache Airflow
+Good Listener,Apache Impala
+Accept Feedback,Apache Drill
+Adaptable,Apache Hadoop
+Artistic Sense,Certification
+Assertive,Data Collection
+Attentive,Business Requirements
+Business Storytelling,Data Mining
+Business Trend Awareness,Data Science
+Collaborating,Visualization
+Communication,Technical Guidance
+Competitive,Programming Skills
+Confident,Sql Server
+Confidence,Computer Science
+Creative Thinker,Statistical Modeling
+Analytical Thinker,Applied Data Science
+Creative,Flask
+Conflict Management,Database
+Conflict Resolution,Education
+Cooperative,R
+Courteous,C
+Crisis Management,C++
+Critical Observer,C#
+Critical Thinker,Ruby
+Customer Service,Ruby on Rails
+Deal Making,Weka
+Deal with Difficult Situations,Matlab
+Deal with Office Politics,Django
+Deals with Difficult People,NetBeans
+Decision Making,IDE
+Dedicated,stochastic
+Delegation,Marketing
+Dependable,Mining
+Design Sense,Mathematics
+Desire to Learn,Forecasts
+Disability Awareness,Statistics
+Dispute Resolution,Programming
+Diversity Awareness,python
+Effective Communicator,Python
+Emotion Management,Microsoft Sql Server
+Emotional Intelligence,MS Sql Server
+Empathetic,NoSql
+Energetic,No-Sql
+Enthusiastic,Hadoop
+Ergonomic Sensitivity,Spark
+Establish Interpersonal Relationships,Java
+Dealing with Difficult Personalities,Algorithms
+Excel,Databases
+Facilitating,Numpy
+Flexible,Pandas
+Flexibility,scikit-learn
+Follow Instructions,Scikit
+Follow Regulations,clustering
+Follow Rules,classification
+Friendly,neural networks
+Functions Well Under Pressure,neural network
+Giving Feedback,tensorflow
+Good at Networking,pytorch
+Good at Storytelling,theano
+Good Attitude,keras
+High Energy,Pig
+Highly Organized,Adaboost
+Highly Recommended,Statistics
+Honest,Statistical analysis
+Independent,machine learning
+Influence,data mining
+Persuasive,data science
+Innovator,data analytics
+Innovative,data analysis
+Innovation,regression
+Inspiring,kmeans
+Intercultural Competence,k-means
+Interviewing,kNN
+Knowledge Management,Bayes
+Listening,Bayesian Probability
+Logical Thinking,Bayesian Estimation
+Make Deadlines,Bayesian Network
+Management,Forest
+Managing Difficult Conversations,Random Forest
+Managing Remote Teams,Decision Tree
+Managing Virtual Teams,Matrix
+Meeting Management,Matrix Factorization
+Management Skills,SVD
+Mentoring,Outlier
+Merit,Outlier detection
+Motivating,Regression Analysis
+Multitasking,Frequent Itemset Mining
+Negotiation,Classification Analysis
+Nonverbal Communication,Backpropagation
+Organization,Sample
+Patience,LogitBoost
+performance,Time Series
+Perform Effectively,Stochastic Gradient Descent
+Performance Management,Gradient Descent
+Perseverance,PCA
+Persistence,Principal Component Analysis
+Persuasion,Dynamic
+Physical Communication,Dynamic programming
+Planning,Clustering
+Positive Work Ethic,Classification
+Possess Business Ethics,Data-driven
+Presentation,Algorithms
+Problem Solving,Analysis
+Process Improvement,Analytical
+Proper Business Etiquette,Analytics
+Proactive,Analyze Data
+Public Speaking,Applications
+Punctual,Application Development
+Quick-witted,Application Development Methodologies
+Read Body Language,Application Development Techniques
+Reliable,Application Development Tools
+Research,Application Programming Interfaces
+Resilient,AWS
+Resolving Issues,AWS Glue
+Resoursefulness,Architecture
+Respectful,AROS
+Respectable,Ars Based Programming
+Results Oriented,Aspect Oriented Programming
+Safety Conscious,Best Practices
+Scheduling,Browsers
+Self-awareness,CASE Tools
+Self-directed,Code
+Self-monitoring,Coding
+Self-supervising,Collaboration
+self-starter,Communication
+Selling Skills,Components
+Sense of Humor,Computer Platforms
+Social,Concurrent Programming
+Stay on Task,Computer Science
+Strategic Planning,Computational complexity
+Stress Management,Constraint-based Programming
+Successful Coach,Customer Service
+Supervising,Database Management Systems
+Take Criticism,DBMS
+Talent Management,Database Techniques
+Team Building,Databases
+Team Player,Database
+Technology Savvy,Data modelling
+Technology Trend Awareness,Data Analytics
+Thinks Outside the Box,Data Structures
+Time Management,Debugging
+Tolerant of Change and Uncertainty,Design
+Train the Trainer,Design Patterns
+Trainable,Development
+Training,Development Tools
+Troubleshooter,Distributed Computing
+Value Education,Dimensionality Reduction
+Verbal Communication,Documentation
+Visual Communication,Embedded Hardware
+Well Groomed,Emerging Technologies
+Willing to Accept Feedback,Fourth Generation Languages
+Willingness to Learn,Hardware
+Work Well Under Pressure,HTML Authoring Tools
+Work-Life Balance,HTML Conversion Tools
+Writing Experience,Industry Systems
+Writing Reports and Proposals,iOS
+Writing Skills,Information Systems
+,Implementation
+,Languages
+,Linux
+,Logic
+,MacOS
+,Math
+,Mobile development
+,Multimedia
+,Multi-Tasking
+,MXNet
+,Object oriented programming
+,object oriented
+,Operating Systems
+,Optimizing
+,Organizational
+,OS Programming
+,Parallel Processing
+,Planning
+,Post Object Programming
+,Presto
+,Problem Solving
+,Programming Languages
+,Programming Methodologies
+,Quality Control
+,Relational Databases
+,Relational Programming
+,Reporting
+,Revision Control
+,Self-Motivation
+,Software
+,Structured Query Language (SQL)
+,Symbolic Programming
+,System Architecture
+,System Development
+,System Design
+,System Programming
+,System Testing
+,Teamwork
+,Technical
+,Testing
+,Third Generation Languages
+,Troubleshooting
+,UNIX
+,Use Logical Reasoning
+,Web Applications
+,Web Platforms
+,Web Services
+,Windowing Systems
+,AWS 
+,Cloud computing 
+,DevOps
+,Microservices
+,Agile Methodologies
+,Scrum Framework
+,development
+,Risk Management
+,Architecture
+,java developer
+,  core-java
+, java
+, java 8
+, oop
+, object oriented
+, OO programming
+, lamdas
+, design patterns
+, generics
+, collections
+, sun certified
+, scjp
+, scwd
+, java developer
+, reflection
+, threading
+, multi-threading
+, multithreading
+, xml
+, log4j
+,Microsoft.Net
+,  core-net
+, .net
+," ""c#"""
+, visual studio
+, sharepoint
+, MCSD.NET
+, microsoft certified
+, mcp
+, ado.net
+, visual basic
+, vb.net
+, vb
+, visual source
+, source safe
+, asp.net
+, crystal reports
+, vbscript
+, delphi
+, iis
+,sun ceritied java professional
+,oracle  ceritied java professional
+,Java Technology
+,Java EE
+,Spring
+,J2EE
+,web technologies
+,JavaScript
+,css
+,mongo
+,Servlets
+,Hibernate
+,mvc
+,testing
+,Microsoft  iis

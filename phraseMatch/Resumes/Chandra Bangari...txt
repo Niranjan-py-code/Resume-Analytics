@@ -1,0 +1,155 @@
+﻿CHANDRA BANGARI
+   reachqamary@gmail.com
+Cell# 678-845-9311
+
+SUMMARY:
+    • Over 12+ years of IT experience in manual testing of Client Server and Web Based Applications and hands on experience leading the team.
+    • Analysis of Business Requirements, Test Scenarios, Test Cases, Manual & Automation Testing and Documentation.
+    • Experience in the complete software development life cycle (SDLC), System Analysis, Design, Development, Testing and End User Training and DevOps.
+    • Experience in using Advance Selenium tools like Selenium Web driver, Maven, Jenkins and Eclipse.
+Expertise in:
+    • Performed System Testing including Functional, Regression, and Performance Testing using automated software testing tools such as Win Runner, Quick Test Pro and Selenium.
+    • Formulated Test Plans based on the User Requirement Documents and System documents for the Functional, Regression, Load, Performance and User Acceptance Testing.
+    • Problem solving and Tracking Bug Reports using Bug tracking Tools like Test Director and 
+    • Clear Quest.
+Experience in:
+    • Unit, Integration, Functional, Regression, User Acceptance, End to End testing, Performance and Stress testing for applications in Financial and Banking Industry.
+    • Proficient in establishing QA Procedures and Preparing Test Plans based on client business, software and interface requirement specifications. 
+    • Excellent communication, analytical and interpersonal Skills.
+    • Domain expertise in Health Care, Insurance, Financial and Telecom Industries.
+    • Ability to collaborate with testers, developers, project managers and other team members.
+    • Knowledge and experience in testing mobile apps on different Mobile Application Platforms, such as iOS and Android and on Mobile device testing.
+
+
+
+EXPERIENCE:
+
+
+
+ 02/19 to               National Exchange Carrier Association (NECA), NJ
+ Till Date              Sr QA Tester/UAT Tester 
+                              Project: Web based application Post Settlement system
+                              NECA plays an essential role in helping members deliver vital telecommunications services to rural consumers at   
+                              reasonable prices which includes rate and tariff development, economic forecasting, regulatory policy analysis,
+                              file interstate access charge tariffs with the FCC and collect and validate cost and revenue data.                                        
+    • Reviewing Requirements and develop Test Plan and Test cases for the application.
+    • Lead co-ordination and execution of release testing as appropriate.
+    • Determine and meet time estimates and schedules for testing efforts.
+    • Participate in the coordination and execution of release testing.
+    • Update and test release installation procedures.
+    • Participate in Lessons Learned as appropriate.
+    • Identify defects and questionable functionality; manage defects through to closure.
+    • Resolve issues with unclear requirements and achieve a successful result.
+    • Work independently as well as work collaboratively in a team environment.
+
+                             
+Environment:  Windows 10, Web Services, SQL Server 2008, JAVA, SharePoint, Beyond Compare, HP ALM.
+
+
+
+03/11 to		AIG INSURANCE, NJ
+01/19		Sr. QA Analyst/Lead
+Project: Web based (JAVA) online Extended Warranty System (EWS)
+The Purpose of the EWS is to support aggressive expansion of warranty line of business around the world. EWS is a robust system that provides end-to-end functionality, incorporating global best practices with a single Data center in New Jersey. EWS is a cost –effective that will facilitate the roll out extended warranty line of business to new countries.
+
+Project: Web Application (Java, Active-X) for a comprehensive insurance suite comprising Home, Auto, Employment Practices Liability, and Private Collections.
+Utilizing the latest technologies and global best practices, it is a one stop shop for all the insurance needs for the private client.
+
+Project: Web Application (JAVA) online for Customer Service Support
+Service Net delivers a full range of service solutions including warranty management administration, extended service programs, customer service support, service network management, claims processing services, and service contract underwriting.
+    • Worked closely with Developers, Business Analysts, and Vendor management and participated in the product design process including specification and other document reviews.
+    • Implement agile management ideals by facilitating exercises such as sprint planning and team leading standups. 
+    • Involved in Automation Environment setup using Eclipse, Java Selenium Web driver, Maven and Jenkins.
+    • Conduct internal audit for broker licenses and appointment statuses to ensure compliance with state regulations using SOAP UI.
+    • Extensive use of SQL queries to perform transaction testing.
+    • Configured scheduled run on Jenkins for nightly run of the test builds.
+    • Able to run the builds from Jenkins and verify the html results.
+    • Used GitHub as a source repository system to share code within the team.
+    • Able to push and retrieve the latest code from GitHub.
+    • Perform regression testing to make sure all the bugs have been fixed and the application is running properly.
+    • Actively participated in various meetings like defect resolution meeting, QA status, Knowledge transfer meeting.
+    • Performed End to End manual testing of the application.
+    • Manages claim process from initial filing using Claim Management system.
+    • Facilitate deployments in DevOps.
+    • Implementing CI/CD Pipelines for Java based Apps using Jenkins, Excel Deploy.
+    • Maintain, own and execute CI/CD Builds.
+    • Good exposure of testing applications on wide range of Mobile handset of different vendors such as Nokia, Samsung, Sony Ericson, Motorola, Windows Mobile, HTC, LG, iPhone and many more.
+    • Good understanding of working on the applications developed for touch screen phones.
+
+Environment:  Windows XP, Windows 7, QTP 11.0, MS Access, .JAVA, Share Point, HP ALM, JIRA, Citrix, SOAP UI, Selenium, Jenkins, GitHub, DevOps.
+
+03/10 to		ADAPTIVE MARKETING, CT
+02/11 		Senior QA Analyst
+Adaptive Marketing is a premier online direct marketing firm that offers consumers discounts on products and services through a diverse array of membership programs. Consumers can choose from programs that help them save on everyday purchases; family fun; travel; small business needs; family protection; credit management; identity theft protection.
+    • Reviewing requirements & writing / modifying test cases.
+    • Execution of test cases using manual as well as automated techniques.
+    • Testing of web services using automated tool using QTP.
+    • Testing of business logic using complex database queries.
+    • Reporting of defects in Quality Center 10.0.
+    • Provide daily/weekly testing status to QA Director with the Minutes of Meeting.
+    • Coordinate testing activities across multiple applications and application teams.
+    • Created Automation script using C# for the version comparison for different servers.
+    • Work with the project team to define, write, review and sign off the Test Plan / Test Strategy.
+    • In charge of QA Server Configurations & Deployments for System Testing & UAT.
+
+Environment:  Windows XP, Windows 7, QTP 10.0, Web Services, SQL Server 2005/2008, .Net Framework, C#, VS 2010 VB Script, Mac OS Snow Leopard, AS 400.
+
+12/08 to		WELCH ALLYN, NY
+02/10		QA Lead
+	 	ConneX VM Administration
+‘ConneX VM’ is Patient Management software targeted to Hospitals. This Application is to manage patient details, patient visit details and to take & manage Medical test data like ECG, Vitals (NIBP, Glucose, Pulse, Temperature, Pulse Oximetry information). This application mainly divided into 3 modules: Framework Web services, UI Application and Device Connectivity services.
+    • Worked as QA lead and allocated work for the testers.
+    • Responsible for Framework Designing and Implementing of ConneX VM using QTP 10.00
+    • Created Object Repository to store the objects.
+    • Updated company standards for Automated Protocol documentation required for FDA Audit.
+    • Worked on Build Automation for ConneX VM Software using PowerShell 2.0
+    • Device Related Manual Test Protocol Execution using CP200, CP100, Spot Lxi, PMP, VSM 300, VSM5200 devices.
+    • Creating and documenting branching strategies for new team projects in TFS 2008.
+    • Assisting users with new TFS environment.
+    • Created & executed test case protocols for ConneX VM Application.
+    • Managed onshore & offshore automation team.
+    • Executed the SQL Queries using SQL Server 2005 for getting the data from tables.\
+    • Presentation of the QA Status report and the Defect Status reports in the weekly meeting.
+    • Utilized Rational Clear Quest for defect tracking & resolution.
+
+Environment: QTP 10.0, SQL Server 2008, Visual Studio 2008, IBM Rational tool (Clear Quest, Clear Case, Rational Requisite Pro), WPF, VB Script, Nunit, SharePoint, Windows XP, Windows Server, Windows 7 (32, 64 bit), TFS.
+
+08/07 to		PHILIPS MEDICAL SYSTEMS, WA
+11/08		 QA Lead
+Clinical Information system is a solution designed and developed for managing the entire computerized patient record and supporting the acquisition, storage, manipulation and distribution of clinical information. Clinical Information system is designed to deliver care by automating the major health care processes and services and providing central control, knowledge and integrity of entire patient record.
+    • Involved development of test plans, test schedules, test cases based on high-level and detailed designs. 
+    • Created the Test strategy document that defines the test environment, phases of testing, entrance and exit criteria into different phases of testing and resources required to conduct the effort. 
+    • Created Test Plans, Test Cases and Test Scripts for some of the modules of the application under test (AUT) using Test Director.
+    • Executed test cases and participated actively in System testing, Integration and regression testing, Performance testing.
+    • Automated Test scenarios for GUI, Functionality, Boundary, Security and Regression Testing using Win Runner.
+    • Developed scripts using Regular expressions to handle dynamic data names. 
+    • Worked on 
+    • Created User Defined functions to enhance the maintainability of test scripts.
+    • Ability to write complex SQL queries.
+
+Environment: QTP 9.2, Oracle 10g, Clear Quest, SAP BW, Windows XP, NT, Windows Server 2003.
+
+04/06 to		EASY LINK SERVICES, NJ 
+03/07		Tester
+Involved in System Testing of ‘Account Link’, an Online Banking Application developed in Active Server Pages, HTML and Oracle, which enables the bank’s customers to access their various accounts through the World Wide Web. Account Holders enter their ‘Customer Number’ and ‘Pin’ to access their Checking, Savings, and Money Market Accounts. The application provides the ‘Account Summary’ (balances, last deposits, etc.), ‘Activity Detail’ (Transaction Details) for the various accounts and the ability to transfer
+funds between the various accounts using ‘Fund Transfers’.
+    • Involved in preparing Test plan and documentation for System Testing.
+    • Developed test cases to test the Performance of the application manually.
+    • Involved in monitoring the web pages and monitor Database Servers, Unix Servers using Site Scope.
+    • Involved in developing and executing automated test scripts in Win Runner for Regression Testing.
+    • Analyzed business requirements and wrote and executed test cases.
+
+Environment: WinRunner8.0, ASP, VB 6.0, Oracle 9i, HTML, VB Script, TCP/IP, and Windows NT, Unix, XML, MS-Word, MS-Excel.
+
+EDUCATION:
+ MGM College of Engineering Nanded India (B Tech Computer Science).
+
+TECHINICAL SKILLS:     
+    • Operating Systems: Windows NT/2000, Windows XP, UNIX(Solaris), Linux (Ubuntu), Windows 7, Windows Server 2003.Mac OS Snow Leopard,
+    • Languages: C#, SQL, T-SQL, HTML, XML, JavaScript, VB Script, JAVA.
+    • Database and related tools: Oracle 8i/9i/10g, Oracle SQL Developer, MySQL, Toad, MS Access, AS 400
+    • GUI: Developer/2000, Crystal Reports, Browser stack
+    • Testing tools: Win Runner, Load Runner, Rational Test, Test Director, QTP 11.0, Selenium 3.14, HP UFT.
+    • Networking: FTP, TCP/IP, HTTP, Telnet.
+    • Bug Reporting Tools: DDTS, I-Tracker, e-Tracker, Clear Quest, HP Quality center 9.2, ALM.
+    • ERP TOOLS: Functional Knowledge in SAP BW.

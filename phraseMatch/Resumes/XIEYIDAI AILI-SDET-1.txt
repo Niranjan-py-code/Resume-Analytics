@@ -1,0 +1,156 @@
+AILI XIEYIDAI
+Software Development Engineer in Test
+11413mactavish height, Fairfax, VA 22030 | (857) 999-5956 | aili.xyd@gmail.com
+Eligible to work in the US for any Employer without Sponsorship
+
+Objective To obtain a position as a Software Development Engineer In Test that allows me to
+utilize and enhance my testing skills and knowledge while applying my experience to solve
+complex problems in a dynamic, challenging environment.
+
+Professional Summary
+
+• A self-taught and highly competent Software Development Engineer In test (SDET) with
+
+•
+•
+•
+
+•
+•
+•
+•
+•
+•
+•
+•
+
+over 5 years of experience in IT industry with a focus on both Automation and Manual
+testing of web-based application and database, serving various domains such as Healthcare
+and Banking.
+In-depth understanding of Java and Object-Oriented Programming (OOPs) concepts and
+proficient using Selenium WebDriver for automation purposes
+Adept at developing Automation Framework from scratch using Java, Selenium
+WebDriver, Cucumber, JUnit, and Maven.
+Experience in developing and maintaining Test Automation Frameworks such as Data
+Driven Framework and Behavior Driven Development (BDD) Frameworks using Java
+and Selenium WebDriver. Also, maintained framework and code using version control
+system Git. Analysed application functionality and accordingly developed Test Automation
+Framework from scratch using Selenium WebDriver and Java, structured using Page
+Object Model design (POM), and organized using Maven in Eclipse / IntelliJ IDE.
+Developed Cucumber Feature Files using Gherkin, fostering a clear understanding for all
+members involved in the project.
+Performed various forms of testing such as: Functional Testing, Regression Testing and
+Smoke Testing.
+Well experienced in Waterfall and Agile Scrum methodologies and a valuable contributor
+during Sprint Grooming, Planning, Demo, and Retrospective meetings.
+Involved in analysing User Stories specification to create and execute Test Cases.
+Created SQL queries to verify data in MySQL, PostgreSQL and Oracle database while
+performing Back-end Testing of databases.
+Ability to understand the business requirements and translate to technical requirements.
+Create High- & low-level technical design documents and architecture for GRC Application.
+Cross functional team member who can effectively collaborate, validates requirements and
+generate rules against the (GRC)Risks.
+Highly flexible and adaptive worker, adept at multi-tasking and thriving in a fast-paced
+environment while assisting numerous time-sensitive projects and ability to prioritize tasks.
+
+Professional Skills
+• Languages: Java, SQL, HTML, XML, JSON, Gherkin
+• Web Services Testing Tools: POSTMAN, RESTAssured
+• Build Tools: Maven
+• Testing Tools: Selenium WebDriver, Cucumber, TestNG, JUnit
+• IDE: Eclipse, IntelliJ
+• CI tool: Jenkins
+• Databases tools: Oracle, MySQL, PostgreSQL
+• Repository System: Git
+• Operating System: Windows, Mac
+
+EXPERIENCE
+Rally Health
+Washington D.C.
+
+Oct 2017 – Present
+
+SDET
+● Actively participated in the Daily Standup, Sprint Planning, Sprint Review, Sprint
+Retrospective Meetings.
+● Developed Test Automation Framework using Selenium WebDriver, Java, Cucumber,
+JUnit and Maven for application UI Testing.
+● Used Page Object Model structure and Data-Driven functionalities to Automation
+Framework, increased reusability and maintainability of the code.
+● Creating Feature files and test scenarios in Cucumber using Gherkin language
+● Participated in a full life cycle of an Agile project and applied QA practices to ensure
+full Functional Testing of new features being added every Sprint, as well as major
+Regression Testing for all previously implemented functionalities in every sprint.
+● Identified GUI elements using various locators provided by Selenium WebDriver such
+as ID, Name, Class Name, Link Text, Partial Link Text, Tag Name, CSS and XPath.
+● Automated manual functional Test Cases and developed and maintained the Automation
+Regression Suite.
+
+● Actively dealt with data tables, calendars, iFrames, pop-ups, and alerts on the application
+using Selenium WebDriver.
+● Utilized Cucumber HTML reports and JSON reports to automate test reports and
+included screenshots of failed scenarios.
+● Efficiently logged and tracked defects using Jira.
+● Accurately developed timely Cucumber Reports using Jenkins.
+● Used Git for version control and Jenkins CI/CD pipeline.
+● Utilized JSON file, Excel Sheet and PostgreSQL database system with Selenium to
+perform data-driven testing.
+● Experience in manually testing REST API web services via Postman tool and
+automating via Rest-Assured java libraries by sending HTTP requests and performing
+data validation.
+● Conducted mentoring to current and new team members on automation testing using
+current tools within my framework.
+● Effectively communicated testing activities and findings in oral and written formats.
+Environment and tools: Maven, Selenium WebDriver, JIRA, Agile, HTML, PostgreSQL, Git,
+Eclipse IDE, Postman.
+Navy Federal Credit Union
+Vienna, VA
+
+Jan 2016 – Sept 2017
+
+QA Automation Engineer
+● Actively participated in fully understanding the project and effectively communicated
+and collaborated with the Scrum team to achieve each Sprint goal.
+● Developed expertise working in a dynamic Agile environment and efficiently tested
+newly proposed changes at any time during SDLC.
+● Successfully maintained Automation Framework using Selenium WebDriver, Java,
+TestNG, Maven and Page Object Model Design.
+● Created and executed both manual and automated Test Cases to perform both
+Functional and Regression Testing.
+● Maintained Regression Test Suite and supported each major release by executing the
+Regression Suite against the application under test.
+● Performed Data Driven Testing using Selenium WebDriver and TestNG Framework
+and utilized Apache POI libraries to retrieve and export data to external sources using
+Java.
+● Performed defect logging and tracking using Jira and interacted with developers to
+resolve any technical issues.
+● Performed Back-end Testing of MySQL databases using JDBC API.
+● Generated reports for upper management.
+Environment and tools: Maven, Selenium WebDriver, Java, Junit, Maven, MySQL, Page
+Object Model, HTML, Git.
+
+Cerner
+Silver Spring, MD
+
+Feb 2014 – Dec 2015
+
+QA Tester
+● Reviewed Requirement Specification to obtain a better understanding of
+the project.
+● Interacted with product owner and development team to better understand the User
+Stories and Acceptance Criteria.
+● Designed effective manual Test Cases based on Business Requirements analysis.
+● Created SQL queries to retrieve test data from Oracle database and analyze and
+verify results.
+● Executed manual Test Cases by using positive and negative test data inputs for UI
+Testing.
+● Worked directly with the development team to resolve quality issues and retest defects.
+● Identified the setup, input data, appropriate steps and the expected responses in Manual
+Test Cases.
+● Derived Test Scenarios, Documented Test Cases and Collected Test Data for Functional
+Testing.
+● Performed Manual Testing of each functionality of the application under test.
+● Participated in daily and weekly status reporting.
+Environment and tools: Manual testing, Microsoft Excel, SQL, PostgreSQL.
+
+

@@ -1,0 +1,303 @@
+﻿Gyan Krishna Dangol
+gyankrishnadangol0218@gmail.com
+707-206-7851
+
+
+PROFESSIONAL SUMMARY:
+
+Software Professional with 8+ years of experience in both Manual and Automation Software Testing and performing Functional, Regression, Integration Testing with effective use of QA and testing practice. 
+
+Specific Skills/Experience:
+
+    • Experience with all phases of Software development life cycle (SDLC) and Software Testing Life Cycle (STLC).
+    • Reviewed and analyzed BRD’s and FRS’s to Test plan, Test strategies and Test cases.
+    • Good understanding of Software Development Methodologies like Waterfall and Agile 
+(SCRUM).
+    •   Involved in automation using Selenium Web Driver, JAVA, C#, Selenium Grid.
+    • Proficient in designing, developing, implementing and documenting test cases for GUI, Functional, System, Regression, back-end testing, UAT, Smoke testing, Data Base Testing of Web-based applications.  
+    • Experience working on Facets Data Tables like (MEES, MEME, BLEI, MESU, BLDF etc. and creating audit reports using queries.
+    • Experience in manually loading data in FACETS and have good knowledge of Facets QA rules.
+•	Extensive experience in creating, executing and maintaining Test Plans, Test Strategies, Test Scripts, Test Cases, Defect Tracking, analyzing bugs and Report Generation using HP QC/ALM.
+    • Experience in writing automation test scripts using test automation frameworks.
+    • Experienced in Automation Testing of web applications using Unified Functional Testing (UFT) and Selenium WebDriver.
+    • Deep understanding and working experience in Object Oriented JavaScript programming and JavaScript MVC frameworks.
+    • Extensive experience in writing and implementation of complex test plans, design, development and execution of test scripts for system, integration, user acceptance test (UAT) and regression testing.
+    • Performed automation framework using TestNG and Implementation of Data Driven Testing using Page Object Model by using Apache POI. 
+    • Experienced in using build tools like Maven to manage framework dependency jar files.
+    • Experienced in load and performance testing using JMETER.
+    • Good knowledge in working with version controlling system like GIT and Jenkins.
+    • Perform manual testing and Automated testing on SOAP and REST web services by executing both functional and non-functional testing using Soap UI and REST API (POSTMAN).
+    • Good understanding of web technologies like HTML, CSS, JavaScript, jQuery.
+    • Experience in data base design, creation and management of schemas writing DDL, DML SQL queries.
+    • Specialized in Performance Testing applications using load-testing tool Load Runner.
+    • Experience in writing SQL queries to ensure data reliability and consistency for data validation on various databases such as SQL Server and Oracle.
+    • Experienced in using Emulator and Simulator for Automation and Environment Compatibility Testing on iOS and Android with Perfecto Mobile and Selendroid.
+    • Good knowledge of UNIX commands.
+    • Experience in Appium tool, for mobile testing in Android, IOS and other mobile applications.
+    • Experienced in working on Multi-Platform Testing like Windows, Linux, Mac and Android.
+    • Proactive team player, individual contributor with positive attitude.
+    • Flexible to adopt new technologies and zeal to learn new technologies.
+
+
+Education:
+
+    • Bachelor’s Degree in Business Studies, Janamaitri Multiple Campus, Tribhuvan University, Nepal.
+    • Master’s Degree in Business Management, Shankar Dev Campus, Tribhuvan University, Nepal.
+
+
+TECHNICAL SKILLS
+
+Technologies
+Java, C#, HTML, CSS, XML, JavaScript, JSON
+Operating Systems
+Windows, Linux, Unix, Mac, IOS, Android
+Databases
+MS SQL Server, Oracle, MySQL
+Database Tools
+TOAD, SQL Server Management Studio, Oracle –SQL Developer
+Testing Tools
+Selenium Web Driver, TestNG, Nightwatch.JS, Maven, Jenkins, Appium, Soap UI, Postman and Load Runner, Protractor, AWS.
+Applications
+MS Office Suite, Android SDK, Eclipse, Sublime, putty, 
+Bug Tracking Tools
+Jira, Bugzilla, HP ALM
+Browsers
+Firefox, Chrome, Internet Explorer, Safari
+
+
+Work Experience
+
+Price Waterhouse Coopers, Albany, NY		                                                      January 2019 till Present
+Automation Engineer
+
+Description:
+PWC developed Corporate Tax System Web Application. This application automatically calculates the corporate tax, prepare Trial Balance, PL and Balance Sheet for client.
+
+Responsibilities:
+    • Followed SDLC using Agile (SCRUM) methodology.
+    • Analyzed system requirement and business requirement documents and developed Test plan, Test cases and Test scripts.
+    • Performed Smoke, Functional, Integration, System, Regression and Usability Testing.
+    • Developed Java based scripts for Selenium Web Driver with JUnit as automation frame work.
+    • Involved in creation of Keyword Driven automation framework in Selenium WebDriver using behavior driven like excel approach and used Page Objects Model and page navigation framework for readable test script and easy maintenance from developer perspectives.
+    • Created utility libraries for reusing the code, make tests shorter and easier to design, read, and maintain.
+    • Extensively used XPATH, Regular expression and classes to perform UI actions.
+    • Implemented test scripts on Keyword Driven Automation framework using Java, Selenium Web driver, excel file and Junit.
+    • Configured the test suite to Continuous Integration and Continuous Delivery of the automation framework with Jenkins.
+    • Used build tools like Maven to build and regression automated tests using GitLab and Document and tracked defects. 
+    • Used build tools like Maven to manage framework dependency jar files.
+    • Tested compatibility of application for dynamic and static content under various cross browsers using HTML Id’s and XPath in Selenium WebDriver.
+    • Used Appium studio for mobile app testing Android and iOS. Integrated Appium for distributing tests on the cloud.
+    • Extensively used SQL for Back End testing to validate data in the database.
+    • Implemented Soup for Web Service Testing in which analyzed, recorded and modified client-server traffic using SOAP UI tool.
+    • Created Features, Scenarios files to execute a test scenario using excel file.
+    • Created and executed both Load and Performance tests for web services using JMETER.
+    • Conducted Regression Testing on various builds of the application, create task, write manual Test case, raise bugs, logged and reported the defects to the developer using Test management tool JIRA. 
+    • Attended Scrum meeting, Automation Progress meeting, Bug triage meetings and also meetings with the QA Leads, Managers and Developers for query resolution.
+    • Coordinated with multiple teams like Planning, Release, Environment, middleware for various testing related activities
+
+Environment: Java, Selenium Web Driver, Junit, Maven, Windows, SQL, GitLab, Jenkins, JIRA, SOAP UI, JMETER, HTML, CSS, Java Script, XML. 
+
+
+First Bank, Southern Pines, NC	      	   		                                        June 2017 – Dec 2018       
+Automation Analyst							
+
+Description:
+First Bank added new features and function on web Application for Mortgage Loans & Programs, Mortgage Calculators and Digital banking tools for free banking on smartphone like Deposit check, pay bills transfer funds between accounts. 
+
+Responsibilities:
+    • Documented test plan, test strategy test scenarios and cases corresponding to business rules and other operating procedures for the different modules of the application.
+    • Followed SDLC using SCRUM Agile methodology.
+    • Created, executed Debugging Test Scripts using QTP/UFT.
+    • AWS and OpenStack to provision new machines for clients. S3 Storage Services on AWS.
+    • Administered and coordinated Confidential release strategies that included - using corporate software packaging utilities
+    • Developed classes in Business Layer and in Data Access Layer in C#.
+    • Experience with QTP / HP UFT to develop automation scripts in VB Script for regression testing.
+    • Converted manual functional and regression scripts to code-driven C# automated scripts.
+    • coordinated / developed Citrix global distribution strategy; implemented load-balancing (Radware), fault-tolerance, and failover
+    • Automating mobile testing using Appium.	
+    • Expertise with testing tools such as Cucumber, Selenium, Ruby-Mine, Selenium Web Driver, Quality Center, Quick Test Professional (UFT) and SOAPUI.
+    • Managed Docker orchestration and Docker containerization using Kubernetes.
+    • Developed C# based scripts for Selenium Web Driver with NUnit as automation frame work.­
+    • Solid experience in Design and Develop test automation Frameworks from scratch using Protractor with JavaScript programming language implement Jasmine BDD framework on it.
+    • Performed GUI, functional, and system testing, manually using HP QC/ALM.  
+    • Developed and Implemented test automation framework using Selenium WebDriver, TestNG and Java for regression test and debug the code.
+    • Strong Experience in UFT/QTP and Selenium Tools.
+    • Developing .spec and .config files for various scenarios in Protractor/Jasmine using “describe, it and expect
+    • Private Cloud Environment - Leveraging AWS and Puppet to rapidly provision internal computer systems for various clients.
+    • Developed and maintained automated regression test cases in Selenium using Java/JavaScript programming language.
+    • Managed and executed build for running automated tests using Maven. 
+    • Configured the test suite to Continuous Integration and Continuous Delivery of the automation framework with Jenkins.
+    • Used Firebug to locate element on web application testing with Selenium Web Driver.
+    • Extensively used XPATH, Regular expression and classes to perform UI actions.
+    • Designed, maintained and executed Automated Integration framework of API/Web Services across multiple test and production environments using Rest API test. 
+    • Involved in testing Web services using Postman tool to locate WSDL file on internet, create Test cases and run them. 
+    • Used JavaScript programming language for scripting.
+    • Familiarity working with Node.JS and NightWatch.js for web automation.
+    • Gained knowledge in Node.JS and writing automation framework using Nightwatch.js.
+    • Performed back-end testing using SQL queries to ensure data reliability and consistency for data validation on various databases such as SQL Server and Oracle.
+    • Performed Functional Testing, Integration Testing, System Testing, Positive Testing, Negative Testing, GUI Testing, UAT Testing.
+    • Performed Back-end testing to ensure that the user data was updated in database using SQL.
+    • Attended Bug Meetings and also meetings with the QA Leads, Managers and Developers for query resolution.
+    • Extensively involved in development of UFT/QTP scripts using with VB Script.
+    • Involved in defect management - Track all the defects raised, conduct defect meetings to update the status of all the defects on periodical basis, publish a consolidated list on week basis. 
+    • Designed server performance, application availability, capacity planning, and application monitoring (using Tivoli, LodeRunner, and APPWatch. Remedy and Teamquest
+    • Automating Angular JS applications by using Protractor, Jasmine and Karma using Java script.
+ 
+Environment: Java, Selenium WebDriver, C#, TestNG, Maven, Jenkins, Postman, HP QC/ALM, GIT, Firebug, HTML, Nightwatch.JS, CSS, Java Script, XML, SQL, Windows.
+
+
+Stitch Fix, San Francisco, CA               ­­­		   	                                           July 2015 – May 2017
+Test Automation Analyst								
+
+Description:
+Stitch Fix’s Corporation is one of the biggest retail companies in US. The purpose of the project was to redesign its ecommerce site stitchfix.com with new features and a clean navigation of the site. The project also involved a complete revamp of the Stich fix’s mobile app and improving features.
+
+Responsibilities:
+    • Handled responsibilities of testing new software applications to ensure that the application meets the Business Functional Requirements.
+    • Developed classes in Business Layer and in Data Access Layer in C#
+    • Worked on SDLC using SCRUM Agile methodology.
+    • Analyzed requirement document and developed Test Plans, Test Cases, Test Script, Test Scenarios, wrote Test Cases to handle Alerts on Web Page and executed them later.
+    • Performed Load Testing using Visual studio team suite and customizing web tests using C#.
+    • Performed Smoke, Functional, Compatibility, Performance, Regression and Usability Testing.
+    • Worked on cloud-based servers like AWS, AZURE and Rackspace.
+    • Used Appium for mobile app testing Android and iOS. Integrated Appium for distributing tests on the cloud.
+    • Used Kubernetes to orchestrate the deployment, scaling and management of Docker Containers.
+    • Private Cloud Environment - Leveraging APM and Puppet to rapidly provision internal computer systems for various clients.
+    • Converted manual functional and regression scripts to code-driven C# automated scripts.
+    • Implemented Page Objects Model, Data Driven, and automation framework using Selenium WebDriver, Java, TestNG and Maven.
+    • Experience in Amazon Cloud (EC2) Hosting and AWS Administration
+    • Involved in creation of automation framework in Selenium WebDriver using behavior driven approach like, Cucumber JAVA. Used Page Objects design and page navigation framework for readable test script and easy maintenance from developer perspectives.
+    • Tested compatibility of application for dynamic and static content under various cross browsers using HTML Id’s and Xpath in Selenium WebDriver.
+    • Tested the application on different mobile devices including IOS (iPhone) and Android (Samsung, google pixel, HTC).
+    • Tested Mobile app behavior under various interruptions: battery strength (full/medium/low), incoming calls, SMS, video calls.
+    • Tested the application on virtual devices using the Perfecto Mobile third-party tool to achieve better test coverage on a larger device matrix.
+    • Automated all System integrated test scripts using Quick test Professional (QTP) creating reusable actions and shared object repositories.
+    • Automating Angular JS applications by using Protractor, Jasmine and Karma using Java script.
+    • Developed Test Cases using a WSDL file which defines Web Service Request, Response, methods/operations and End Point of web service to be tested.
+    • Tested web services for Shopping cart, Account Creation and Shipment Tracking web services.
+    • Execution of UFT and Selenium automated scripts and reporting defects.
+    • Documented the defects using HP ALM and tracked them to completion by communicating and coordinating with the development as well as the support group.
+    • Prepared the traceability matrices to fill the gap between the requirements and the test cases covered.
+
+Environment: HP QC/ALM, Cucumber, Selenium Web Driver, C#, TestNG, Maven, Appium, Android Studio, Java, XML, XSLT, XSD, Windows, SQL Server, UNIX
+
+
+Progressive Insurance, Cleveland, OH	          		                                      June 2014 – July 2015                                          
+Sr. Automation Tester
+
+Description: 
+Worked on Policy center module of customized guidewire software which helps to create new policy and purchase policies based on specific needs. Also, worked on billing center which integrates with claim center and policy center.
+
+Responsibilities:
+    • Followed SDLC using Agile (SCRUM) methodology.
+    • Developed ASP.NET web pages (C# code behind) for authentication, registration, maintenance, documents uploading and faculty approval system
+    • Analyzed system requirement and business requirement documents and developed test cases and test scripts.
+    • Experienced in Creating test script in HP UFT QTP by recording, without recording, modifying manually and running the script in HP UFT 11.5 QTP / HP ALM 11.52 QC saving the results in HP ALM
+    • Tested customized Guidewire UI, rules and integration processes under Policy and claim Center Modules.
+    • Executed manual test cases and responsible to track and log the defects using HP ALM.
+    • Performed Smoke, Functional, Integration, System, Regression and Usability Testing.
+    • Created utility libraries for reusing the code, make tests shorter and easier to design, read, and maintain.
+    • Performed manual/web testing using Selenium IDE.
+    • Created and maintained a Selenium based test suite.
+    • Extensively used SQL for Back End testing to validate data in the database.
+    • Developed separate test cases for ETL process (Inbound & Outbound) and created reports.
+    • Analyzed ETL Mappings based on Facts & Dimensions from Source to target tables for directs moves and for indirect moves based on transformation rules & lookup tables.
+    • Developed Test Case, Test Script using Java, Selenium Web Driver and created automation framework using TestNG.
+    • Performed Functional and Regression testing using HP UFT QTP.
+    • Change Management, Software Configuration Management (SCM), Build and Release management and Process Engineering.
+    • Analyzed build based on Maven to generate reports and represent Documentation.
+    • Implemented Soup for Web Service Testing in which analyzed, recorded and modified client-server traffic using SOAP UI tool.
+    • Updated skills with Mobile Web Automation Framework Angular JS in Jasmine, Protractor using this testing the AJAX components.
+    • Created Features, Scenarios files to execute a test scenario using Cucumber and Gherkin.
+    • Created and executed both Load and Performance tests for web services using JMETER.
+    • Good knowledge in Automation tools like Selenium WebDriver, GEB, Protractor and QTP.
+    • Responsible for creating automated test scripts in UFT QTP and updated the scripts as per requirement change.
+
+Environment: Java, Selenium Web Driver, TestNG, Maven, Windows, SQL, Guidewire, HP ALM, SOAP UI, JMETER and Cucumber. 
+
+
+Discover Bank, Houston, TX                                                                                              February 2013 – May 2014                                                        
+Automation Tester
+
+Description: 
+The project involves implementation of Actimize AML (Anti-Money Laundering) SAM (Suspicious Activity Monitoring) solution, across all business units in CIT, to support its transaction monitoring surveillance efforts. This solution provides complete end to end coverage for monitoring transactions including exception identification, review, resolution, reporting, and documentation.
+
+Responsibilities:
+    • Followed all phase of SDLC with SCRUM Agile Methodology.
+    • Involved in different types of manual testing including Smoke, GUI, Functional, Regression, Integration, Database testing.
+    • Performed manual, automated testing including functional, system in all different Internet browsers (IE, Firefox, and Safari)
+    • Tested the various business rules related with wire transfers front end and back end features for scheduling the transfers and cancel   
+    • Performed testing against the compliance and regulations based on AML business rules based on to identify any fraud patterns in 
+    • Tested the CTRs and SAR reports being generated by the system.
+    • Deployment of Web services for online transactions using C# and exposed them through SOAP and HTTP
+    • 
+    • Developed and executed Automated Test cases using Selenium Web Driver to automate manual testing solutions.
+    • Used Quick Test Pro (QTP) to expand test scenarios to catch more bugs and improve quality.
+    • Strong knowledge of various procedural and object-oriented programming languages such as C#.
+    • Performed Data driven testing Selenium WebDriver using TestNG functions which reads data from scripts using property and XML.
+    • Used build tools like Maven and Jenkins to build and regress automated tests using GIT: Document and tracked defects. 
+    • Performed the Back-End Data testing to ensure data consistency on front-end by creating and executing SQL queries in Oracle. 
+    • Wrote and maintained data extracts written in C#, and created data extracts like reading in flat files, XML, reformatted the data to generate the spread sheets using Batch Processing .
+    • Developed the classes using C#, which incorporate N-tier architecture and database connectivity.
+    • Used Rest API Postman Tool for web service testing and validating the responses through assertions.
+    • Developed the win forms and dialogs using C#.net and WinForms controls to display. Controlled the dialog size and controls using Dock and anchor properties.
+    • Actively participated in enhancement meetings focused at making the application more reliable.
+    • Coordinated with multiple teams like Planning, Release, Environment, middleware for various testing related activities
+
+Environment: Java, Selenium Web Driver, Jenkins, Maven, TestNG, Postman, Windows XP, Oracle, UNIX, JIRA, SQL, HTML
+
+
+Tenet HealthCare, Dallas, TX                                                                                      January 2012 – January 2013     
+Quality Assurance Tester 
+
+Description: 
+Tenet Health Inc. provides transformational medical technologies and services that are shaping a new age of patient care. Worked on patient flow optimization module which tracks patient flow from admission to discharge in real time and this data helped to decrease wait time, reduce costs and improve the quality and safety of care.
+
+Responsibilities:
+    • Followed SDLC using Agile Scrum Methodology.
+    • Worked with software developers to understand the architecture and design of the various components
+    • Used reporter object in QTP for reporting test results in function of code.
+    • Involved in complete Software Testing life cycle right from reviewing test plan, test cases, test data preparation, test case execution, defect tracking.
+    • Worked on FACETs in customizing screens/reports, terminate or reinstate health coverage for the subscriber and Provider enrollments.
+    • Involved in documenting Test cases, Test Data and Requirement Traceability Matrix (RTM) and defect reporting.
+    • Conducted Smoke, Functional, Compatibility, Performance, Regression, End to End, Security and Usability Testing
+    • Implemented test scripts Automation framework using Java, Selenium Web driver and TestNG.
+    • Used build tools like Maven to manage framework dependency jar files.
+    • Worked on real time EDI (Electronic Data Interchange) transactions like 270/271 - Eligibility Benefit Inquiry/Response and 276/277 –Claim Status Request / Response.
+    • Did parallel testing for testing for FACETS.
+    • Responsible for testing REST API's using Postman. 
+    • Used SQL queries for backend testing to validate data in database.
+    • Conducted Regression Testing on various builds of the application, logged and reported the defects to the developer using JIRA. 
+
+Environment: Java, Selenium Web Driver, TestNG, Maven, Unix/Linux, JIRA, MySQL, Postman
+
+			
+
+
+
+Petco Inc, San Diego, CA            		            	                                                  April 2011 – December 2011
+Quality Assurance Tester 
+
+Description: 
+Petco is an advanced web capabilities implementation. It Ships from Store providing the ability to ship online orders from stores close to customer address rather than distribution centers to reduce cost and increase customer satisfaction. 
+
+Responsibilities:
+    • Prepared Test plans and test cases for manual testing.
+    • Worked on various QTP Automation tools QTP/UFT using VB Scripting and descriptive programming approach on various projects.
+    • Analyzed Build, maintain and enhance retail store system including POS and developed test cases based on required documents.
+    • Tested different functions of the POS system like scanning, payments, return, reports etc. to make sure that the system met the requirement and expectations.
+    • Involved in preliminary discussion of the project according to BRD and prepared test plan and test case for manual testing.
+    • Followed all phase of SDLC with Waterfall Methodology.
+    • Validated the various sales offer (Discounts) for the POS.
+    • Performed manual testing tracking defects and reviewed as well as comparing using HP QC/ALM.
+    • Interacting with the development team to resolve and follow up on issues.
+    • Worked directly with developers to report discrepancies and to resolve defects track changes to status.
+    • Written SQL queries for querying data against different data bases for data verification process.
+    • Involved in planning and creating Test scenarios and Test objectives to ensure the system modification will meet the specified business requirements. 
+    • Reported defects in HP QC/ALM and re-tested any fixed issues.
+    • Conducted user acceptance testing to ensure that developed systems satisfied the needs of business clients as specified in the functional requirements.
+    • Conducted Alpha and Beta testing.
+
+Environment: Windows, SQL Server, HTML, XML, HP QC/ALM, Agile/Scrum and MS-Office
+	
+

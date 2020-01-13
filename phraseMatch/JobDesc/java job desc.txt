@@ -1,0 +1,9 @@
+14 years of experience in software analysis
+6-8 years of experience in enterprise application Development using Java-J2EE
+Good development expertise in Core Java, J2EE, Servlets, Webservices (REST , SOAP), Spring MVC, Hibernate or IBatis, 
+EJB experience is added advantage
+Good Knowledge in Oracle or MySQL
+Possess good knowledge of object-oriented design and development (OOA/OOD) and J2EE framework and data architectures.
+Hands on experience in JBoss and Weblogic/Websphere server deployments
+Working knowledge of JUnit Unit testing or any other tool
+Working knowledge in Unix

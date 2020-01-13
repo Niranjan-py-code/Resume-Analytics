@@ -1,0 +1,88 @@
+﻿Shamshir Ahmed								       917-600-4221
+QA/ Manual/ Automation/ Mobile Test Engineer				     sahmed4221@gmail.com
+	
+Objective
+A skilled, talented and motivated computer professional with more than five (5) years of experience as a successful Quality Assurance (QA)/Software Test Engineer/Analyst hands on performing both Manual & Automated Testing on various Operating Systems (OS) and Platforms, and currently seeking a rewarding position in the testing industry.
+Professional Summary/Expertise
+
+    • Experienced & in-depth understanding of Software Quality Assurance - including Software Development Life Cycle (SDLC), methodologies, Test Planning, Test Design, execution of manual & automated test scripts using Quality Center (QC), Quick Test Professional (QTP), and QA best practices.
+    • Expertise with Parameterization, Descriptive Programming, Checkpoints, Output Values and Data-Driven Scripts.
+    • Manual and Automation Testing - experience in Client/Server and Web-based applications in Windows and UNIX environments
+    • Hands on experience querying SQL functions against Databases for Test Data generation and trouble-shooting purposes in Oracle & SQL Server.  
+    • Proficient in writing Test Cases using HP Quality Center (QC), reporting bugs and raising issues to team lead, QA manager, project manager and other teams.
+    • Experienced in Mobile Testing on Android/iPhone/iPad smart phones/tablets applications and strong knowledge of wireless technologies.
+    • Designed, developed and wrote Test Plans, Requirements Traceability Matrix (RTM), Test Cases and Test Scripts from Use Cases, Design Documents and other project documentations.
+    • Highly skilled & experienced on QA Testing Process and its relationship to producing a quality end product in various environments & methodologies - Waterfall, Iterative, Agile, Scrum and XP.
+    • Participated in Product Design Reviews to provide input on Functional Requirements, Product designs, schedules, or potential problems.
+    • Self-managed & ability to adjust competing priorities & allocate time as necessary to get the job done.
+    • Experience in writing complex SQL and testing scripts for Backend Testing for Oracle.
+    • Highly motivated, detail oriented have ability to work independently and as a part of the team with excellent technical, analytical, organizational and communication skills in both oral and written.
+    • Prepared, maintained, and reviewed QA Test Documentation, Metrics and Artifacts to ensure compliance with quality assurance standards and requirements.
+
+Computer & Technical Skills
+
+Operating System/Languages	Windows XP, Vista, Windows 7 & 8, 95/98, UNIX, LINUX, VBScript, 					            HTML, .NET, ASP.NET, RUBY, Java, J2EE, SQL, PL/SQL
+Defect/Req/Test Management	HP Quality Center (QC), Jira, Bugzilla
+Browser & Network Protocol	Internet Explorer, Firefox, Safari, TCP/IP, Telnet, HTTP, FTP
+Testing Tools			SEE TEST, HP Quick Test Professional (QTP) 	                                                                                     
+Databases/Languages		Oracle, TOAD, SQL Developer, SQL, PL/SQL, MSSQL 2000
+Microsoft Tools			Microsoft Word, PowerPoint, Excel, SharePoint, Outlook, Office 
+Communicator
+
+Professional Experience
+
+Sr. QA Analyst, Education Dynamics, Hoboken, NJ	December 2016 – September 2019
+Education Dynamics is the industry leader in helping colleges and universities find the highest quality student prospects and achieve their enrollment goals.
+Responsibilities: 
+    • Led and perform Test Plan development, Automation test plan, Test Cases and Requirement Traceability Matrix (RTM), Test Analyze Report (TAR) and bug documentation.
+    • Used industry leading best practices to communicate with development teams to review & resolve defects using JIRA & Quality Center.
+    • Using Application Lifecycle Management (ALM) for reserving, executing test cases, defect tracking, and the complete test management.
+    • Created complex SQL queries for back-end testing in SQL Server 2012.
+    • Expertise in Test Strategy, Test Plan, Requirement analysis, Unit, Integration, System, Regression and UAT planning and execution, Estimations, testing in SOA, Defect Management, Defect Life Cycle, Test Metrics, testing of Mobile devices/iPad - iOS and android, Video Testing, Testing on cloud environment.
+    • Extensive experience in Sanity testing, Feature testing, Functional testing, System testing, Compatibility testing, stress testing in mobile handsets and web-based applications.
+    • To measure performance, memory leakage, energy usage & crash logs, I am expert using instrumental tools like xCode for iOS and ADB / DDMS for Android
+    • Utilized Perfecto and See Test Cloud/automation tools for testing on mobile apps testing across browsers and web applications on different Operating systems. 
+    • Experience using web and or mobile analytics tool such as Localytics and expert using cross-platform tool like Crashlytics for distributing beta versions of apps to iOS and Android
+    • Used over the air platform such as TestFlight App & Hockey App to deploy internal iOS and Android builds to team members.  Also used metrics from TestFlight and Hockey App to determine automation test scenarios.
+    • Used Charle's Proxy extensively to performed mobile app testing with Restful Web Services (API)
+    • Implemented Agile/Scrum methods for testing approach by interacting with the developers and attended daily scrum meetings along with other stakeholders.
+    • Design Functions Library, Call Functions, Utilities functions, Regular Expressions and Environmental variables using UFT in VBScript.
+    • Involve in testing application on different mobile Platform such as iOS and Android devices.
+    • Coordinate with Project Managers, System Analysts to set up the pre-validation and validation environment to execute the scripts.
+    • Work closely with Dev & Product team to ensure testing issues are resolved on timely manner.
+    • Worked closely with stakeholders to perform Requirement GAP analysis and developing Traceability Matrix, and implementation of best QA practices.
+
+Quality Assurance Engineer, Sprint, Reston, VA                                February 2014 – November 2016
+Sprint is an American telecommunication holding company that provides wireless services and is a major global Internet carrier. It is the fourth largest wireless network operator in the United States, and serves 58.8 million customers. 
+Responsibilities: 
+    • Maintained a strong grasp of the Software Development Lifecycle (SDLC) and the principles, theories, and methodologies of system and integration testing.
+    • Developed Test Cases, Test Execution Scenarios, and Test Plans for testing for complex and large systems and subsystems.
+    • Designed & built Test Suites that leveraged the testing process and test tool kit to create reusable test assets.
+    • Communicated and enforced QA automation best practices, standards and metrics.
+    • Provided administrative support for HP Quality Center (QC) which included daily basis user support, project workflow optimization, adding new user-defined fields and customizing reports
+    • Identified and captured Test Data to support the Test Cases defined as a team.
+    • Created, enhanced and implemented guidelines & best practices for Test Automation in Quick Test Professional (QTP) by writing advanced functions, looping & conditional statements in VBScript.
+    • Participated in the development and supported the testing program aimed at supporting multiple testing efforts simultaneously.
+    • Planned and conducted various types of testing: functional, integration, regression, smoke, end-to-end, ad-hoc, load & performance testing.
+    • Communicated test progress, test results, and other relevant information to project stakeholders and management.
+    • Enhanced Test Scripts for global execution on functional variations across customers and modules.
+    • Executed SQL queries in order to view successful transactions of data and for validating data in Oracle database.
+    • Identified issues in AUT & entered them into the corporate defect tracking system and followed the issue to resolution.
+    • Validated problem resolutions and software fixes as well as tracked issues and defects in HP Quality Center.
+
+QA Tester, Wachovia, Washington, DC	January 2013 – February 2014
+Wachovia was a diversified financial services company based in Charlotte, North Carolina. Wachovia was the fourth-largest bank holding company in the United States, based on total assets.
+Responsibilities:
+    • Involved in the analysis, design, and development and testing of the several Client-Server applications.
+    • Tested the Web Services Interface.
+    • Wrote the Test Plans and Test cases for acceptance, functional and integration testing.
+    • Defined and performed the Test strategies and associated scripts for the verification and validation of the application and ensuring that it meets all defined business requirements and associated functionality
+    • Designed test cases and test procedures for the applications. 
+    • Generated automated scripts using QTP and created GUI checkpoints and database checkpoints.
+    • Tracked and helped developer fix the bugs in the applications and performed Regression testing of Web Application.
+    • Used QC for bug tracking and reporting, also followed up with the development team to verify bug fixes and update bug status.
+    • Wrote SQL queries to test Data Integrity, Referential Integrity and performed Database Testing for the Application.
+
+
+Education:  Bachelor in Science, New York City College of Technology, City University of New York(2012)
+

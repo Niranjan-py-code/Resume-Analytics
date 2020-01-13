@@ -1,0 +1,110 @@
+﻿Bassam Emam
+   10153 Allwood Court - Manassas - VA
+(571)77-88-688
+Bassamosman1987@gmail.com
+     
+     
+
+PROFESSIONAL SUMMARY
+     
+    • 5+ years of professional experience as a Software QA Tester.
+    • An in-depth understanding of all the phases of Software Development Life Cycle (SDLC).
+    • Extensive experience in functional testing, smoke testing, integration testing, regression testing, black box testing, GUI testing, back-end testing, exploratory testing, browser compatibility testing, load/performance testing in different stages of Software Development Life Cycle.
+    • Strong background in functional and regression testing for enterprise web/portal applications following iterative and agile methodologies.
+    • Ability to write detailed test cases, test plans and thoroughly document defects identified.
+    • Strong knowledge of full Software Testing Lifecycle.
+    • Experienced in creating and developing Test Strategies, Test Plan and Test Cases producing Bug Reports using JIRA.  
+    • Experience in identifying object locators and creating Xpath using Firebug. 
+    • Experienced in working with Apache POI Library, Cucumber.
+    • Experienced in performing regression testing using selenium Webdriver. 
+    • Experienced in creating data driven and object driven framework from scratch. 
+    • Proficient in Cucumber as a testing library with selenium web driver. 
+    • Experienced in BDD testing using cucumber features and gherkin language. 
+    • Experienced in creating test script using Java and related java libraries. 
+    • Experience with test automation tool Selenium WebDriver
+    • Experience with defect tracking and test management tools
+    • Experience with developing/modifying automation test scripts using Java.
+    • Excellent analytical and problem-solving skills competencies.
+    • Quick learner and excellent team player having ability to meet tight deadlines and work under pressure teams to ensure the quality of the software product.
+    • Worked on multiple Projects at same time with multi-sites team.
+     
+     
+TECHNICAL SKILLSET
+
+    • Automation Testing Tools:  Selenium WebDriver, Selenium IDE, Apache Poi, Jenkins, Jira, ECLIPSE, Git, ALM
+    • Application Software: MS Excel, Word, Outlook, Power Point
+    • Project Management:  Jira, HP ALM
+    • O/S: Windows 7, Windows 10, Windows Server 2012 R2
+    • Programming Language:  Java 
+     
+PROFESSIONAL EXPERIENCE
+
+QA Analyst 							
+July 2017 to Present   
+MetLife, Falls Church VA	
+                                                                  
+    • Developing, maintaining and executing automation tests and regression scenarios for multiple web applications under test.
+    • Review and analyze requirements to develop detailed test cases and to established traceability between application requirements and test cases.
+    • Develop test plans and test cases by analyzing design documents and business requirement documents.
+    • Analyze business requirements and use cases to identify and report any gaps.
+    • Defined high-level Test Scenarios and detailed Test Cases based on Business Requirements Use Cases and Wireframes.
+    • Review Test Cases along with Test Data variations with Business Users, Stakeholders, Business Analyst, System Analysts and team members to ensure complete test scenario coverage, capture inputs/feedback and update Test Cases and Test Data.
+    • Used Jira to create/maintain test cases; link test cases to business requirements, record test case execution/capture screen shots/attach documentation, submit/assign/track/close defects.
+    • Design, create, and customize scripts using such as Selenium with Java and cucumber. 
+    • Worked as an Automation Tester, responsible for development and maintenance of Automation Frameworks, tools and solutions.
+    • Participate in the automated testing tool vendor selection process. Conduct a Pros & Cons analysis of Selenium.
+    • Developed Test cases based on the requirements, participated in implementation of Test Cases, and Test Script according to the Business Requirements, System Requirements.
+    • Developed Test Plans and Test Scripts for Automation Testing. 
+    • Conducted End-to-End, Manual Testing of the system and prepared and managed test cases using Jira.
+     
+
+QA Analyst										
+March 2015 to June 2017                                           
+Auto Trader - Atlanta, GA	
+
+    • Reviewed Test Documents in coordination with client, development team and stakeholders including functional teams and business analysts. 
+    • Performed regression testing after business logic and UI change.
+    • Wrote and executed automated test cases using Selenium WebDriver to automate solutions that was previously manual 
+    • Involved in complete SDLC Process, Requirement gathering Phase, Design Phase and Testing Phase.
+    • Responsible for developing test plans, strategies, scenarios and execution of test cases
+    • Participated in writing Test Plan, Test Approach, and Test cases
+    • Involved in business reviews, design review along with company stake holders
+    • Extensively performed regression and functional testing using automation script. 
+    • Involved in converting manual test cases to automation where possible.
+    • Attended Agile (SCRUM) meetings.
+    • Assisted User Acceptance Testing (UAT) to ensure application satisfies user needs.
+    • Analyzed Functional and Performance requirements and prepared test cases /scripts and test data strategy document. 
+    • Tracked, reviewed, and analyzed Defects and compared using Quality Center (ALM).
+    • Prepared reports on defects generated during test execution daily.
+    • Effectively implemented different QA methodologies/policies, strategies and plans in all stages of SDLC.
+    • Created Test plan, Test Design, Test scripts and responsible for implementation of Test.
+    • Involved in analyzing and writing Test Plan in accordance with business requirements.
+    • Used Quality Center to attach screenshots, and associated the defect with the proper severity and priority, and linked the related Test Script.
+
+
+
+
+QA Tester										
+August 2013 to February 2015                                           
+Prometric Testing Center, Baltimore, MD                                                                
+
+    • Participated in Requirement Reviews, Design Review meetings
+    • Analyzed the business requirements and wrote high level Test plan, Test case and Test scripts.
+    • Developed Test cases and Test Scenarios and Test Data to cover all the requirements.
+    • Created Traceability Matrix to Map the Test Cases to Requirements in Quality Center.
+    • Conducted Test Case, Test Scenarios review meetings with Business Analysts, Developers and Stake holders
+    • Tracked & logged all the defects in defects Management of Quality Center.
+    • Involved in helping Business Users in UAT testing.
+    • Created Test Summary Results Report and Incident Report.
+     
+
+
+
+Education 
+     
+    • Pharos University 
+    • Bachelor of Information System/ Computer Science		
+
+
+
+		

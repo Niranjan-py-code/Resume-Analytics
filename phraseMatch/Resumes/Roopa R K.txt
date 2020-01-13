@@ -1,0 +1,238 @@
+Roopa R Kengannavar
+
+US Citizen
+
+Cell: (703) 431-5282 Email: Talk2Roopa@Outlook.com
+Roopa brings about 10 years of professional Information Technology experience in Quality Assurance, Software Testing,
+Automation Testing, Defect Management, Manual testing, Development, Reporting, Processes, and deep understanding
+of Software Test Life Cycle (STLC) and its stages. Working as a Senior Test Engineer and QA Engineer in the field of
+Quality Assurance and specializing in Web based applications, EDI, Interfaces, REST Webservices, Reports, Oracle ERP,
+Salesforce, PeopleSoft and Product based testing. Very good knowledge and experience in testing Web Applications,
+AWS, CRM and ERP implementation/support projects using automated tools Selenium, HP Quick Test Professional (QTP)
+/ HP Unified Functional Testing (UFT), LoadRunner, HP ALM and QualityCenter.
+
+
+
+
+
+
+
+
+
+
+
+Professional Profile
+Extensive experience in developing comprehensive Test plans including smoke, acceptance, certification,
+performance, and stress tests. Developing use cases, test cases, test scripts, user interface specifications, RTM
+(Requirement Traceability Matrix), and user requirement specification documents.
+Extensive experience in Functional testing, Performance Testing, Backend Testing, Black Box Testing, White Box
+Testing, System Testing, Integration Testing, Regression Testing and User Acceptance Testing (UAT).
+Extensive experience in using Automated Testing tools like Selenium, LoadnRunner, QTP (UFT) , HP ALM,
+QualityCenter the defect management tool
+Experience in bug/defect logging and tracking using JIRA, ITG Kintana, and IBM Rational ClearQuest.
+Prioritize and manage multiple issues within the overall project while maintaining deliverable timelines.
+Experienced with Rational Unified Process (RUP), Section 508 testing, Sarbanes-Oxley (SOX) and CMM.
+Strong desire to deepen my knowledge, collaborate within a team, and mentor junior test engineers.
+Extensive experience in writing Oracle SQL queries and PL/SQL code using TOAD to test/validate PL/SQL API’s. Also
+experienced in writing Java/J2EE programs to test Java API’s.
+Solid understanding of and practical experience with systems development methodologies (e.g., Waterfall, Agile),
+as well as a strong understanding of configuration and release management concepts. Experience working as a
+Scrum Master.
+Technology Snapshot
+
+
+
+
+
+
+
+
+
+
+Testing Tools: Selenium (IDE, RC WebDriver), QTP/UTF, LoadRunner, HP ALM, QualityCenter, JIRA, JUnit,
+ClearQuest, VersionOne, PVCS, SVN, GitLab
+Operating Systems: Windows, Unix, Linux
+Applications: Word, Excel, Project, Visio, PowerPoint, SharePoint
+Web/Application Servers: Apache Tomcat, WebLogic, JRun
+Languages/Web related: Java, J2EE, PL/SQL, XML, HTML, JavaScript, CSS, VB Script, AWS
+Databases: Access, SQL Server, MySQL, Oracle
+Fusion Middleware: Oracle SOA 11g, OBIEE, ADF
+Tools: Toad, SQL Navigator, SQL Plus, JDeveloper, Eclipse
+Education
+Bachelor of Engineering (BE)
+Professional Experience
+
+Client: Lincoln Financial Group
+
+April 2017–Till Date
+
+Role: Senior Consultant
+ Extensively involved in all phases of Software Test Life Cycle (STLC) in designing test strategies, test plans, and test
+cases from requirements, design documents and specifications.
+ Test case authoring and holding test case reviews with stakeholders. Execution of test cases including functional,
+regression, performance, backend, load and smoke tests for both web applications and database.
+ Developed automated test scripts using Selenium Webdriver. Identified regression test candidates for automation
+and automating those test cases.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Developed test infrastructure, test frameworks to automate testing of AWS, Angular UIs, RESTful services, and
+libraries using HP UFT/VB Script.
+Experience with testing analytical functions in AWS Cloud-based architecture.
+Extensive experience with AWS tools and environments (S3, Lambda, SQS Q, EBS, RDS, EC2, ES Index) and Splunk.
+Used JIRA for reporting defects, tracking, validating and closing. Recording test results and reporting them. 508
+compliance test execution and documentation.
+Experience with testing REST web services (JSON format) using tools such as Postman.
+Experienced in Agile development. Participated in daily scrum meetings and weekly test team meetings.
+Performed manual and exploratory tests with the goal of automation. Performed application testing to ensure
+program changes are functional and are in compliance with established standards.
+Extensive experience with test methodologies, the QA process, software release cycle, test effort estimation, and
+tracking.
+Assisted the development team in debugging and reproducing reported issues. Worked with Business Analysts and
+Developers to improve overall development and test processes.
+Worked on automating the testing of API-led applications.
+Developed test plans, test cases and executed test scripts to test functionalities of Oracle EBS R12 modules (GL, AR,
+AP, PO, PA).
+Developed SQL scripts using TOAD to test database functionalities. Experience with NoSQL database (Elasticsearch
+and Kibana).
+Experience testing applications integrated using MuleSoft 4.
+Experience working within a Continuous Integration (CI) and Continuous Development (CD) environment.
+
+Client: GCSS – Marine Corps, Quantico, VA
+Sept 2014–March 2017
+Role: Senior Engineer
+ Extensively involved in all phases of Software Test Life Cycle (STLC) like development, testing, quality assurance,
+validation, implementation and maintenance activities for ERP (Enterprise Resource Planning) 11i to R12 upgrade
+project.
+ Interaction with various client stakeholders on Test estimates, planning and for various testing initiative across large
+scale complex project. Facilitated and participated in the Product Planning, Release Planning, and Sprint Planning
+processes.
+ Created Test Plan, Test Scripts and extensively tested R12 Federal Financials P2P/R2R modules (GL, AP, AR, PO, Fed
+Admin, SLA, PA), PRISM application and OBIEE reports.
+ Developed and implemented detailed RTM (Requirement Traceability Matrix), Test Plan and test cases based on
+functional specifications for all assigned project releases.
+ Co-Ordination and interaction with multiple groups (Dev, Testing, Client QA, UAT, Business, Release Management,
+and Environment) for cross work stream project delivery.
+ Participated in the creation, distribution, and walkthrough of software test cases, scripts and other documents
+surrounding testing activities and ensure that all testing activities and deliverables are conducted/produced in
+compliance with client standards.
+ Developed and executed automation scripts using Selenium WebDriver with core JAVA on Eclipse for multiple test
+cycles.
+ Worked with LoadRunner Controller for configuring and execution of performance test scenarios with multiple
+virtual users and virtual user scripts, managed and collected metrics for the various system monitors. Created VuGen
+scripts, used manual and automatic correlation, parameterization techniques in generating the test scripts for
+LoadRunner. Performed Load test, Stress test, Benchmark Profile test, Fail -Over test, Fail - Back test against
+supported configurations.
+ Developed Test scripts, Test case Design, Execution of test scripts, and Defect tracking and reporting using HP ALM.
+ Executed SQL queries and PL/SQL Procedures / Functions using TOAD in order to view successful transactions of
+data and for validating data.
+
+
+
+
+
+
+
+
+
+Responsible for tracking and preparing reports of testing activities such as, testing results, test case coverage,
+required resources, defects discovered and their status, and performance baselines.
+Involved in testing for 508 Accessibility Compliance.
+Prioritizes backlog items according to business value, risk, and effort estimate.
+Active member of multiple Integrated Product Team's (IPT's) within the project.
+Participated in, and provided input to Program Management and Release Design Reviews.
+Extensively participated in testing EDI, OBIEE and Discoverer Reports, Oracle SOA 11g and Webservices API (REST
+APIs).
+Conduct 'lessons learned' sessions with all the teams to promote new ideas and learn from mistakes and
+shortcomings over the projects.
+
+Client: Department of Transportation (DOT)
+
+Nov 2011 - Aug 2014
+
+Role: Senior Consultant
+ Deliverables: QA Project Plan, Test Strategy, Test Plan, Traceability Matrix, Stakeholder Presentations, Weekly Status
+Report tracking.
+ Collaborated with the government customer to gather business requirements, Reviewed Business requirements,
+analyzed functional Design documents.
+ Created Test Plan, Test Scripts and extensively tested R12 Federal Financials P2P/R2R modules (GL, AP, AR, PO, Fed
+Admin, SLA, PA), PRISM and OBIEE reports.
+ Worked closely with the software team during Scrum planning per Agile methodology. Participated in Agile Test
+Estimation process to provide QA estimates for Sprint Slotting process for multiple SPRINTS.
+ Involved in Test Environment Setup and Test Infrastructure Development in both Manual and Automation.
+ Developed and executed automation scripts using HP QTP / UFT for multiple System integration test cycles.
+ Developed and executed tests scripts of many types including functional, regression, white box, black box, smoke,
+and browser compatibility testing (Safari, MSIE, Firefox) that ensures applications meet business requirements and
+system goals, fulfill end user requirements and identify existing or potential issues.
+ Executed SQL queries and PL/SQL Procedures / Functions using TOAD in order to view successful transactions of
+data and for validating data.
+ Prepared Test Plan, Test Cases, developed multiple user scenarios for Load and Performance Testing. Created VuGen
+scripts, used manual and automatic correlation, parameterization techniques in generating the test scripts for
+LoadRunner. Executed LoadRunner Scenarios using Performance Center to perform performance, Stress and
+scalability tests.
+ Conducted User Acceptance Testing with the business customers and captured resulting issues and signoff.
+Identified, documented and managed status of critical issues/defects. Provided defect metrics.
+ Worked with the appropriate IT or Business Teams to drive the resolution of identified quality issues.
+ Executed standardized reporting to provide visibility to test execution, results and overall product quality; perform
+ad-hoc analysis and reporting as requested.
+ Researched, recommended and ensure team compliance to Software Test Life Cycle (STLC) standards and
+methodologies.
+ Researched, recommended and ensure team compliance to established metrics and reporting for monitoring
+software and system quality.
+ Planned, communicated and interacted with all levels of IT and business management Core Competencies.
+
+Client: Qualcomm, San Diego, CA
+Role: Systems Analyst
+
+
+
+May 2008 – Jan 2010
+
+Designed and executed test plans, RTM (Requirement Traceability Matrix), managed defects and coordinated testing
+for each release.
+Defined and implemented QA processes and standards for manual, automated, and performance methodologies,
+tools, and templates.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Led and drove the definition and execution of testing strategies for Functional, System Integration, Security,
+Performance and User Acceptance test phases according to the defined test framework.
+Involved in Test Environment Setup and Test Infrastructure Development in both Manual and Automation.
+Developed and executed automation scripts using QTP using VBScript for multiple System integration test cycles on
+multiple projects.
+Developed and executed manual test scripts for Functional testing, Black Box Testing, White Box Testing, System
+Testing, Integration Testing, Regression Testing and User Acceptance Testing. Tracked and reported defects using
+QualityCenter.
+Involved in Use case reviews for product enhancements and recommendation.
+Extensively involved in all phases of testing cycle (functional, UAT, regression, system integration) and post
+production support/enhancements.
+Presenting detailed Test report and Progress reports to upper management, internal stakeholders and customers.
+Weekly interaction with internal/external customers for bug fixes, future requirements and relationship building.
+Planning risk-based iterations using MS project to adhere to schedules without sacrificing quality within allocated
+budget.
+Provided Go/No Go Decisions for release deployment and assumed full ownership of system testing.
+
+

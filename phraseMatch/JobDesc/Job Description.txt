@@ -1,0 +1,28 @@
+﻿Quality Analyst
+
+Job Responsibilities:
+• Execute test plans, scenarios, scripts or procedures.
+• Test system modifications to prepare for implementation.
+• Develop testing programs that addresses areas such as database impacts, software scenarios, or usability.
+• Document software defects, using a bug tracking system, and report defects to software developers.
+• Identify, analyze and document problems with program function, output, online screen or content.
+• Monitor bug resolution efforts and track successes.
+• Create or maintain databases of known test defects.
+• Plan test schedules or strategies in accordance with project scope or delivery dates.
+
+Qualifications:
+• 8-10 years’ experience required.
+• Experience testing software.
+• Experience writing test documentation such as Test Plans, scripts and test results reports.
+• Ability to analyze/interpret test results and provide recommendations to improve testing.
+• Experience with traditional, Agile, and DevOps development practices and associated testing strategies.
+• Experience with testing in AWS Cloud environments to include building automated tests within a code pipeline
+• Ability to document test plans, test scripts test results and any other necessary documentation
+• Creating detailed, comprehensive and well-structured test plans and test cases
+• Estimating, prioritizing, planning and coordinating quality assurance activities
+• Ability to assess CI/CD pipelines, backlogs and pipeline tools and determine the quality and completeness of testing efforts
+
+QA, Testing, Manual, Automation, Selenium, Cucumber, QTP, JIRA, HP ALM , Quality Center, JUnit, JMeter, 
+TestNG, 
+
+Quality Assurance, Quick Test Pro, Test Plan, Test Strategy, Test Defect, WinRunner, Test Script, Script, Automation Script
